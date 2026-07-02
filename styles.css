@@ -336,6 +336,7 @@ h3 {
 .hero-visual {
   margin: 0;
   position: relative;
+  aspect-ratio: 16 / 9;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   overflow: hidden;
@@ -347,13 +348,14 @@ h3 {
   content: "";
   position: absolute;
   inset: 0;
-  border: 10px solid rgba(255, 255, 255, 0.72);
+  border: 4px solid rgba(255, 255, 255, 0.68);
   pointer-events: none;
 }
 
 .hero-visual img {
   width: 100%;
-  min-height: 460px;
+  height: auto;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
   object-position: center;
 }
@@ -860,10 +862,6 @@ h3 {
     order: -1;
   }
 
-  .hero-visual img {
-    min-height: 360px;
-  }
-
   .hero h1 {
     font-size: 52px;
   }
@@ -948,10 +946,6 @@ h3 {
 
   .button {
     width: 100%;
-  }
-
-  .hero-visual img {
-    min-height: 232px;
   }
 
   .facts,

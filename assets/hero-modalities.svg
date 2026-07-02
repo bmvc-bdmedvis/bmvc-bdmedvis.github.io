@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 844" role="img" aria-labelledby="title desc">
+  <title id="title">Flat biomarker markers across medical vision modalities</title>
+  <desc id="desc">A compact flat illustration of biomarker marker regions across pathology, CT, MRI, ultrasound, endoscopy, and biomarker signal views.</desc>
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0v44" fill="none" stroke="#dfecea" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-8%" y="-8%" width="116%" height="120%">
+      <feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#123236" flood-opacity="0.055"/>
+    </filter>
+    <linearGradient id="ctBg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1d2b31"/>
+      <stop offset="1" stop-color="#52646b"/>
+    </linearGradient>
+    <linearGradient id="usBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#20333b"/>
+      <stop offset="1" stop-color="#101e24"/>
+    </linearGradient>
+    <style>
+      .card{fill:#fff;stroke:#d5e1df;stroke-width:2;rx:18;filter:url(#softShadow)}
+      .panel{stroke-width:2}
+      .teal{stroke:#0b7780}
+      .coral{stroke:#d86d61}
+      .muted{stroke:#cad7d5}
+      .bioRing{fill:none;stroke:#0b7780;stroke-width:6;stroke-dasharray:13 8;stroke-linecap:round}
+      .bioDot{fill:#0b7780}
+      .bioHalo{fill:#7fd4d0;opacity:.30}
+      .bioSignal{fill:none;stroke:#d86d61;stroke-width:6;stroke-linecap:round}
+    </style>
+  </defs>
+
+  <rect width="1500" height="844" fill="#f7fbfa"/>
+  <rect width="1500" height="844" fill="url(#grid)" opacity="0.36"/>
+  <circle cx="1360" cy="82" r="128" fill="#e7f3f1" opacity="0.55"/>
+  <circle cx="128" cy="790" r="154" fill="#f8e8e5" opacity="0.45"/>
+
+  <g transform="translate(18 18)">
+    <rect class="card" width="478" height="397"/>
+    <rect class="panel" x="24" y="24" width="430" height="349" rx="18" fill="#fff4fb" stroke="#e6c6dd"/>
+    <path d="M64 213c31-100 135-125 213-58 71 60 119 1 152-49 32-48 73-18 83 25 20 87-66 159-187 130-78-18-132-83-190-49-61 36-100 34-71 1z" fill="#f3d1e4" stroke="#bc77aa" stroke-width="5"/>
+    <path d="M76 151c68 43 121 49 175 21m-151 97c82-45 153-23 219 11m-69-141c74 19 128 11 177-30" fill="none" stroke="#b96ca4" stroke-width="6" opacity="0.55" stroke-linecap="round"/>
+    <g fill="#6f3b87" opacity="0.92">
+      <ellipse cx="127" cy="202" rx="16" ry="11" transform="rotate(-18 127 202)"/>
+      <ellipse cx="178" cy="164" rx="15" ry="10" transform="rotate(16 178 164)"/>
+      <ellipse cx="236" cy="203" rx="17" ry="12" transform="rotate(28 236 203)"/>
+      <ellipse cx="295" cy="158" rx="14" ry="10" transform="rotate(-12 295 158)"/>
+      <ellipse cx="368" cy="219" rx="18" ry="12" transform="rotate(32 368 219)"/>
+      <ellipse cx="161" cy="266" rx="20" ry="12" transform="rotate(22 161 266)"/>
+      <ellipse cx="285" cy="278" rx="15" ry="10" transform="rotate(-20 285 278)"/>
+      <ellipse cx="399" cy="289" rx="14" ry="9" transform="rotate(8 399 289)"/>
+    </g>
+    <circle class="bioRing" cx="295" cy="207" r="62"/>
+    <circle class="bioHalo" cx="295" cy="207" r="38"/>
+    <circle class="bioDot" cx="295" cy="207" r="10"/>
+    <path class="bioSignal" d="M347 157c28-2 39-23 68-23"/>
+  </g>
+
+  <g transform="translate(511 18)">
+    <rect class="card" width="478" height="397"/>
+    <rect x="24" y="24" width="430" height="349" rx="18" fill="url(#ctBg)"/>
+    <ellipse cx="239" cy="199" rx="165" ry="94" fill="#d8e0e2" opacity="0.93"/>
+    <ellipse cx="170" cy="199" rx="63" ry="60" fill="#18272d"/>
+    <ellipse cx="312" cy="199" rx="63" ry="60" fill="#18272d"/>
+    <ellipse cx="239" cy="201" rx="29" ry="25" fill="#f0f4f4"/>
+    <path d="M183 200c32-28 66-31 99 0m-16 0c44-35 83-31 112 2" fill="none" stroke="#8b9a9e" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="336" cy="222" r="37" fill="#69c7c6" opacity="0.32"/>
+    <circle class="bioRing" cx="336" cy="222" r="54"/>
+    <circle class="bioDot" cx="336" cy="222" r="13"/>
+    <path d="M334 222l61-51" class="teal" stroke-width="7" stroke-linecap="round"/>
+    <path class="bioSignal" d="M387 174h44m-27-22h27m-51 44h51"/>
+  </g>
+
+  <g transform="translate(1004 18)">
+    <rect class="card" width="478" height="397"/>
+    <rect class="panel" x="24" y="24" width="430" height="349" rx="18" fill="#eef5f7" stroke="#d7e3e4"/>
+    <path d="M228 106c87-43 193 13 193 101 0 59-53 84-112 72-39-8-59 23-115 5-66-22-96-90-67-137 19-29 50-25 101-41z" fill="#dce8ed" stroke="#7c9098" stroke-width="6"/>
+    <path d="M208 133c-25 29-24 70 5 99m53-118c-10 55 2 112 42 151m-126-76c49-9 91 2 128 42m-41-91c48-2 84 15 114 51" fill="none" stroke="#9badb4" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="337" cy="206" r="45" fill="#d96d61" opacity="0.80"/>
+    <circle cx="337" cy="206" r="21" fill="#fff" opacity="0.48"/>
+    <circle class="bioRing" cx="337" cy="206" r="68"/>
+    <path class="bioSignal" d="M392 163c25-15 41-15 63 1"/>
+  </g>
+
+  <g transform="translate(18 429)">
+    <rect class="card" width="478" height="397"/>
+    <rect x="24" y="24" width="430" height="349" rx="18" fill="url(#usBg)"/>
+    <path d="M239 62L65 323h348z" fill="#314850"/>
+    <path d="M239 88L98 302h282z" fill="#49616a"/>
+    <path d="M111 268c62-37 119-49 177-31s83-14 122-55" fill="none" stroke="#91a7ad" stroke-width="7" opacity="0.82"/>
+    <path d="M116 302c83-55 153-57 221-14" fill="none" stroke="#c2d1d3" stroke-width="4" opacity="0.72"/>
+    <circle class="bioHalo" cx="276" cy="233" r="43"/>
+    <circle class="bioRing" cx="276" cy="233" r="59"/>
+    <circle class="bioDot" cx="276" cy="233" r="10"/>
+    <path d="M276 174v118" fill="none" stroke="#7fd4d0" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <path class="bioSignal" d="M331 169c28 14 51 12 77-8"/>
+  </g>
+
+  <g transform="translate(511 429)">
+    <rect class="card" width="478" height="397"/>
+    <rect class="panel" x="24" y="24" width="430" height="349" rx="18" fill="#fff6f0" stroke="#ead8ce"/>
+    <ellipse cx="239" cy="198" rx="178" ry="93" fill="#e7a57f" opacity="0.82"/>
+    <path d="M80 197c83-58 172-62 272 2 27 16 51 17 78 7" fill="none" stroke="#b65b4e" stroke-width="17" stroke-linecap="round" opacity="0.75"/>
+    <path d="M101 232c111-28 194-22 285 16" fill="none" stroke="#f4d1bf" stroke-width="14" stroke-linecap="round"/>
+    <circle class="bioHalo" cx="313" cy="195" r="55"/>
+    <circle class="bioRing" cx="313" cy="195" r="68"/>
+    <circle class="bioDot" cx="313" cy="195" r="14"/>
+    <path class="bioSignal" d="M367 146c28-13 48-11 73 7"/>
+  </g>
+
+  <g transform="translate(1004 429)">
+    <rect class="card" width="478" height="397"/>
+    <rect class="panel" x="38" y="56" width="190" height="238" rx="17" fill="#f4f7f7" stroke="#d7e2e0"/>
+    <g transform="translate(61 82)">
+      <rect x="0" y="0" width="34" height="34" fill="#0b7780"/>
+      <rect x="45" y="0" width="34" height="34" fill="#8bd1cf"/>
+      <rect x="90" y="0" width="34" height="34" fill="#d96d61"/>
+      <rect x="135" y="0" width="34" height="34" fill="#dfe8e7"/>
+      <rect x="0" y="45" width="34" height="34" fill="#bcdeda"/>
+      <rect x="45" y="45" width="34" height="34" fill="#0b7780"/>
+      <rect x="90" y="45" width="34" height="34" fill="#f0b2aa"/>
+      <rect x="135" y="45" width="34" height="34" fill="#6e75ad"/>
+      <rect x="0" y="90" width="34" height="34" fill="#e6eeee"/>
+      <rect x="45" y="90" width="34" height="34" fill="#8bd1cf"/>
+      <rect x="90" y="90" width="34" height="34" fill="#0b7780"/>
+      <rect x="135" y="90" width="34" height="34" fill="#d96d61"/>
+      <rect x="0" y="135" width="34" height="34" fill="#d96d61"/>
+      <rect x="45" y="135" width="34" height="34" fill="#e6eeee"/>
+      <rect x="90" y="135" width="34" height="34" fill="#8bd1cf"/>
+      <rect x="135" y="135" width="34" height="34" fill="#0b7780"/>
+    </g>
+    <g transform="translate(270 74)">
+      <path d="M0 252H162M0 252V10" fill="none" stroke="#829498" stroke-width="5" stroke-linecap="round"/>
+      <path d="M12 58c33 8 47 43 79 53s55-61 91-33" fill="none" class="teal" stroke-width="8" stroke-linecap="round"/>
+      <path d="M12 166c35-33 60-27 84 13s55 38 89-30" fill="none" class="coral" stroke-width="8" stroke-linecap="round"/>
+      <circle class="bioRing" cx="91" cy="111" r="31"/>
+      <circle class="bioRing" cx="132" cy="184" r="34"/>
+      <circle class="bioDot" cx="91" cy="111" r="10"/>
+      <circle fill="#d96d61" cx="132" cy="184" r="10"/>
+    </g>
+  </g>
+</svg>
