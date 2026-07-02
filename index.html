@@ -1,0 +1,533 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>BD-MedVis | BMVC 2026 Workshop</title>
+    <meta
+      name="description"
+      content="Biomarker-Driven Medical Vision Intelligence, a BMVC 2026 workshop on imaging biomarkers, computational pathology, radiogenomics, multimodal biomedical AI, and clinically grounded computer vision."
+    >
+    <meta name="theme-color" content="#0b5f6a">
+    <meta property="og:title" content="Biomarker-Driven Medical Vision Intelligence">
+    <meta property="og:description" content="A BMVC 2026 workshop on clinically grounded medical vision, biomarkers, and multimodal biomedical AI.">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="assets/hero-medical-vision.jpg">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="preload" href="assets/hero-medical-vision.jpg" as="image">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="progress-bar" data-progress aria-hidden="true"></div>
+
+    <header class="site-header" data-header>
+      <nav class="nav-shell container" aria-label="Main navigation">
+        <a class="brand" href="#top" aria-label="BD-MedVis home">
+          <span class="brand-mark" aria-hidden="true">BD</span>
+          <span class="brand-copy">
+            <strong>BD-MedVis</strong>
+            <span>BMVC 2026 Workshop</span>
+          </span>
+        </a>
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="primary-nav" data-nav-toggle>
+          <span class="nav-toggle-line"></span>
+          <span class="nav-toggle-line"></span>
+          <span class="nav-toggle-line"></span>
+          <span class="sr-only">Open navigation</span>
+        </button>
+        <div class="site-nav" id="primary-nav" data-nav-links>
+          <a href="#overview">Overview</a>
+          <a href="#highlights">Highlights</a>
+          <a href="#program">Program</a>
+          <a href="#speakers">Speakers</a>
+          <a href="#submission">CFP</a>
+          <a href="#organizers">Organizers</a>
+          <a href="#faq">FAQ</a>
+        </div>
+        <a class="conference-logo" href="https://bmvc2026.bmva.org/" aria-label="BMVC 2026 main conference website">
+          <img src="assets/bmvc-2026-logo.png" alt="BMVC 2026">
+        </a>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="top" aria-labelledby="hero-title">
+        <div class="container hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow">The 37th British Machine Vision Conference · Lancaster, UK</p>
+            <h1 id="hero-title">Biomarker-Driven Medical Vision Intelligence</h1>
+            <p>
+              A BMVC 2026 workshop for computer vision methods that move beyond image-level
+              prediction toward biologically grounded, clinically credible imaging biomarkers.
+            </p>
+            <div class="hero-actions">
+              <a class="button primary" href="#submission">
+                <span aria-hidden="true">+</span>
+                Call for papers
+              </a>
+              <a class="button secondary" href="#program">
+                <span aria-hidden="true">↓</span>
+                View program
+              </a>
+            </div>
+          </div>
+          <figure class="hero-visual">
+            <img src="assets/hero-medical-vision.jpg" alt="Abstract medical vision layers linking pathology, radiology, and biomarker signals.">
+          </figure>
+        </div>
+      </section>
+
+      <section class="facts container" aria-label="Workshop facts">
+        <article>
+          <span>Date</span>
+          <strong>26 November 2026</strong>
+        </article>
+        <article>
+          <span>Venue</span>
+          <strong>Lancaster Town Hall</strong>
+        </article>
+        <article>
+          <span>Format</span>
+          <strong>Half-day workshop</strong>
+        </article>
+        <article>
+          <span>Audience</span>
+          <strong>35-50 expected attendees</strong>
+        </article>
+      </section>
+
+      <section class="section" id="news" aria-labelledby="news-title">
+        <div class="container section-head split-head">
+          <div>
+            <p class="eyebrow">Updates</p>
+            <h2 id="news-title">News</h2>
+          </div>
+          <p>Key workshop announcements will be added here as BMVC 2026 planning progresses.</p>
+        </div>
+        <div class="container news-grid">
+          <article class="news-card">
+            <time datetime="2026-06-05">5 June 2026</time>
+            <h3>Workshop proposal notification date</h3>
+            <p>BMVC workshop proposal outcomes are expected around this date according to the proposal call timeline.</p>
+          </article>
+          <article class="news-card">
+            <time datetime="2026-05-22">22 May 2026</time>
+            <h3>BMVC workshop proposal deadline</h3>
+            <p>The workshop proposal was prepared for the BMVC 2026 workshop call.</p>
+          </article>
+          <article class="news-card muted-card">
+            <time datetime="2026-11-26">26 November 2026</time>
+            <h3>Workshop at BMVC 2026</h3>
+            <p>The workshop is planned for the final day of BMVC 2026 in Lancaster, UK.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section soft" id="overview" aria-labelledby="overview-title">
+        <div class="container two-column">
+          <div class="section-head sticky-head">
+            <p class="eyebrow">Overview</p>
+            <h2 id="overview-title">Why this workshop matters now</h2>
+          </div>
+          <div class="rich-text">
+            <p class="lead">
+              Medical vision is increasingly judged not only by predictive accuracy, but by
+              whether it yields stable, interpretable, and clinically meaningful evidence.
+            </p>
+            <p>
+              Biomarker-driven approaches connect BMVC strengths in representation learning,
+              multimodal modelling, and visual reasoning with urgent needs in precision medicine,
+              disease stratification, and treatment-response assessment.
+            </p>
+            <p>
+              Foundation models and large-scale biomedical datasets now enable richer
+              image-derived phenotyping, while opening new opportunities for biomarker-aware
+              reasoning, multimodal learning, and generative modelling of virtual biomarker
+              patterns. Credible biomarker discovery still requires careful linkage to biology,
+              clinical endpoints, uncertainty, bias, and reproducibility.
+            </p>
+            <div class="profile-grid">
+              <article>
+                <span>Audience</span>
+                <strong>Vision, medical imaging, computational pathology, radiology, multimodal AI, and clinical collaborators.</strong>
+              </article>
+              <article>
+                <span>Value</span>
+                <strong>A focused BMVC forum connecting visual representation learning with clinically credible biomarkers.</strong>
+              </article>
+              <article>
+                <span>Outcome</span>
+                <strong>Sharper evidence standards for interpreting, validating, and translating image-derived biomarkers.</strong>
+              </article>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="highlights" aria-labelledby="highlights-title">
+        <div class="container section-head">
+          <p class="eyebrow">Workshop focus</p>
+          <h2 id="highlights-title">Four core goals</h2>
+          <p>
+            The scientific agenda is structured around the full path from visual discovery to
+            credible clinical evidence.
+          </p>
+        </div>
+        <div class="container pillar-grid">
+          <article class="pillar-card">
+            <span>01</span>
+            <h3>Discover biomarkers</h3>
+            <p>Identify visual phenotypes and latent representations linked to pathology, radiology, molecular, spatial, and outcome signals.</p>
+          </article>
+          <article class="pillar-card">
+            <span>02</span>
+            <h3>Quantify evidence</h3>
+            <p>Measure biomarker stability, uncertainty, biological plausibility, and clinical endpoint associations across datasets and cohorts.</p>
+          </article>
+          <article class="pillar-card">
+            <span>03</span>
+            <h3>Validate meaning</h3>
+            <p>Test whether image-derived biomarkers remain interpretable, reproducible, and robust under domain shift and clinical constraints.</p>
+          </article>
+          <article class="pillar-card">
+            <span>04</span>
+            <h3>Translate responsibly</h3>
+            <p>Connect methodological advances to bias-aware validation, deployment readiness, and equitable precision-medicine impact.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section soft" id="topics" aria-labelledby="topics-title">
+        <div class="container section-head split-head">
+          <div>
+            <p class="eyebrow">Topics</p>
+            <h2 id="topics-title">Topics of interest</h2>
+          </div>
+          <p>Submissions are welcomed across biomedical computer vision, multimodal learning, and clinically grounded AI.</p>
+        </div>
+        <div class="container topic-list">
+          <article>
+            <span>Biomarkers</span>
+            <h3>Imaging biomarker discovery and validation</h3>
+            <p>Discovery, quantification, uncertainty estimation, and validation of image-derived biomarkers.</p>
+          </article>
+          <article>
+            <span>Pathology</span>
+            <h3>Computational pathology and spatial tissue analysis</h3>
+            <p>Histology, tissue structure, molecular linkage, and clinically grounded pathology AI.</p>
+          </article>
+          <article>
+            <span>Radiology</span>
+            <h3>Radiology, radiogenomics, and outcomes</h3>
+            <p>Visual reasoning across imaging phenotypes, genomics, outcomes, and treatment response.</p>
+          </article>
+          <article>
+            <span>Multimodal</span>
+            <h3>Multimodal biomedical AI</h3>
+            <p>Models that align image, molecular, spatial, clinical, and outcome signals.</p>
+          </article>
+          <article>
+            <span>Reliability</span>
+            <h3>Interpretability, robustness, and reproducibility</h3>
+            <p>Clinically meaningful explanation, reproducible evaluation, bias analysis, and reliable deployment signals.</p>
+          </article>
+          <article>
+            <span>Translation</span>
+            <h3>Responsible clinical translation</h3>
+            <p>Evidence standards, clinical endpoints, deployment constraints, and equitable biomarker validation.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="program" aria-labelledby="program-title">
+        <div class="container section-head split-head">
+          <div>
+            <p class="eyebrow">Program</p>
+            <h2 id="program-title">Draft half-day program</h2>
+          </div>
+          <p>Exact timing will be aligned with the final BMVC 2026 workshop schedule.</p>
+        </div>
+        <div class="container program-layout">
+          <div class="program-summary">
+            <article>
+              <strong>2</strong>
+              <span>Invited talks</span>
+            </article>
+            <article>
+              <strong>3-5</strong>
+              <span>Contributed oral presentations</span>
+            </article>
+            <article>
+              <strong>10-15</strong>
+              <span>Expected posters</span>
+            </article>
+            <article>
+              <strong>1</strong>
+              <span>Moderated panel</span>
+            </article>
+          </div>
+          <div class="timeline">
+            <article>
+              <time>TBA</time>
+              <div>
+                <h3>Opening and framing</h3>
+                <p>Setting the workshop agenda and defining credible biomarker-oriented medical vision.</p>
+              </div>
+            </article>
+            <article>
+              <time>TBA</time>
+              <div>
+                <h3>Invited Talk I</h3>
+                <p>Thirty-minute invited talk followed by five minutes of discussion.</p>
+              </div>
+            </article>
+            <article>
+              <time>TBA</time>
+              <div>
+                <h3>Contributed oral presentations</h3>
+                <p>Selected papers presenting methods, datasets, validation studies, and clinical perspectives.</p>
+              </div>
+            </article>
+            <article>
+              <time>TBA</time>
+              <div>
+                <h3>Focused poster session</h3>
+                <p>Poster-first discussion for approximately 10-15 accepted works, depending on submission volume.</p>
+              </div>
+            </article>
+            <article>
+              <time>TBA</time>
+              <div>
+                <h3>Invited Talk II</h3>
+                <p>Second invited talk connecting biomedical vision methods with translational evidence.</p>
+              </div>
+            </article>
+            <article>
+              <time>TBA</time>
+              <div>
+                <h3>Panel and closing synthesis</h3>
+                <p>Moderated panel: “What makes an image-derived biomarker clinically credible?”</p>
+              </div>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section soft" id="speakers" aria-labelledby="speakers-title">
+        <div class="container section-head">
+          <p class="eyebrow">Invited speakers</p>
+          <h2 id="speakers-title">Clinical and translational medical vision perspectives</h2>
+          <p>Speaker details are provisional and will be updated as confirmations are finalised.</p>
+        </div>
+        <div class="container speaker-grid">
+          <article class="person-card speaker-card">
+            <div class="avatar teal" aria-hidden="true">YZ</div>
+            <div>
+              <p class="tag">Provisionally agreed</p>
+              <h3>Professor Yalin Zheng</h3>
+              <p class="role">Professor of AI in Healthcare, Department of Eye and Vision Sciences, University of Liverpool</p>
+              <p>
+                Professor Zheng's research spans medical image analysis, artificial intelligence
+                for healthcare, ophthalmic imaging, and clinically deployable diagnostic
+                technologies, including AI-enabled retinal and systemic disease assessment.
+              </p>
+            </div>
+          </article>
+          <article class="person-card speaker-card">
+            <div class="avatar indigo" aria-hidden="true">SA</div>
+            <div>
+              <p class="tag">Provisionally agreed</p>
+              <h3>Dr Sharib Ali</h3>
+              <p class="role">Associate Professor, University of Leeds; Founder and Lead, AI in Medicine and Surgery Group</p>
+              <p>
+                Dr Ali works on medical and surgical image analysis, including endoscopic vision,
+                cancer diagnosis, robust machine learning, benchmarking, and clinically meaningful
+                AI evaluation.
+              </p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="submission" aria-labelledby="submission-title">
+        <div class="container submission-panel">
+          <div>
+            <p class="eyebrow">Call for papers</p>
+            <h2 id="submission-title">Submission details will be announced soon.</h2>
+            <p>
+              We welcome original research, methodological contributions, clinical perspectives,
+              benchmark studies, and critical analyses on biomarker-driven medical vision intelligence.
+            </p>
+          </div>
+          <div class="date-grid" aria-label="Important dates">
+            <article>
+              <span>Workshop date</span>
+              <strong>26 November 2026</strong>
+            </article>
+            <article>
+              <span>Submission deadline</span>
+              <strong>To be announced</strong>
+            </article>
+            <article>
+              <span>Author notification</span>
+              <strong>To be announced</strong>
+            </article>
+            <article>
+              <span>Submission portal</span>
+              <strong>To be announced</strong>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section soft" id="organizers" aria-labelledby="organizers-title">
+        <div class="container section-head">
+          <p class="eyebrow">Organizing committee</p>
+          <h2 id="organizers-title">Workshop organizers</h2>
+          <p>
+            The team brings experience across medical image analysis, biomedical AI, workshop
+            organisation, computational pathology, and clinically grounded computer vision.
+          </p>
+        </div>
+        <div class="container organizer-grid">
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">YH</div>
+            <div>
+              <h3>Dr Yang Hu</h3>
+              <p class="role">Lecturer, University of Leicester, UK</p>
+              <a href="mailto:hy208@leicester.ac.uk">hy208@leicester.ac.uk</a>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">HZ</div>
+            <div>
+              <h3>Dr He Zhao</h3>
+              <p class="role">Tenure-Track Fellow/Lecturer, University of Liverpool, UK</p>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">TZ</div>
+            <div>
+              <h3>Dr Tianyang Zhang</h3>
+              <p class="role">Research Scientist, University of Oxford, UK</p>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">JC</div>
+            <div>
+              <h3>Dr Jian Chen</h3>
+              <p class="role">PhD Researcher, University of Cambridge, UK</p>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">DD</div>
+            <div>
+              <h3>Dr Dan Dai</h3>
+              <p class="role">Lecturer, Aston University, UK</p>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">YJ</div>
+            <div>
+              <h3>Dr Yakun Ju</h3>
+              <p class="role">Lecturer, University of Leicester, UK</p>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">LZ</div>
+            <div>
+              <h3>Dr Le Zhang</h3>
+              <p class="role">Assistant Professor, University of Birmingham, UK</p>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">SG</div>
+            <div>
+              <h3>Dr Shangqi Gao</h3>
+              <p class="role">Research Associate, University of Cambridge, UK</p>
+            </div>
+          </article>
+          <article class="person-card">
+            <div class="avatar" aria-hidden="true">ZJ</div>
+            <div>
+              <h3>Dr Zheheng Jiang</h3>
+              <p class="role">Lecturer, University of Leicester, UK</p>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section venue-section" id="venue" aria-labelledby="venue-title">
+        <div class="container venue-grid">
+          <figure>
+            <img src="assets/lancaster-town-hall-exterior.jpg" alt="Lancaster Town Hall exterior.">
+          </figure>
+          <div>
+            <p class="eyebrow">Venue</p>
+            <h2 id="venue-title">Lancaster Town Hall, Lancaster, UK</h2>
+            <p>
+              The workshop will be held with the 37th British Machine Vision Conference, hosted by
+              Lancaster University and held at Lancaster Town Hall. Standard lecture-room AV and
+              poster boards are planned for the half-day format.
+            </p>
+            <a class="button secondary" href="https://bmvc2026.bmva.org/" target="_blank" rel="noreferrer">
+              <span aria-hidden="true">↗</span>
+              BMVC 2026 main site
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section soft" id="faq" aria-labelledby="faq-title">
+        <div class="container section-head split-head">
+          <div>
+            <p class="eyebrow">FAQ and contact</p>
+            <h2 id="faq-title">Common questions</h2>
+          </div>
+          <p>For workshop enquiries, contact the organising team.</p>
+        </div>
+        <div class="container faq-grid">
+          <article>
+            <h3>When is the workshop?</h3>
+            <p>The workshop is planned for 26 November 2026, with the final time slot to be aligned with the BMVC 2026 workshop schedule.</p>
+          </article>
+          <article>
+            <h3>Where will it take place?</h3>
+            <p>It will be held with BMVC 2026 at Lancaster Town Hall, Lancaster, UK.</p>
+          </article>
+          <article>
+            <h3>Can I submit work that is preliminary or cross-disciplinary?</h3>
+            <p>Submission tracks and rules will be announced. The workshop scope is intentionally cross-disciplinary across vision, medical imaging, biomedical AI, and clinical collaborators.</p>
+          </article>
+          <article>
+            <h3>Who should attend?</h3>
+            <p>Computer vision researchers, medical image analysis researchers, computational pathology and radiology scientists, multimodal learning researchers, translational AI developers, and clinical collaborators.</p>
+          </article>
+        </div>
+        <div class="container contact-strip">
+          <div>
+            <strong>Questions?</strong>
+            <span>Email the primary contact for programme, submission, or logistics enquiries.</span>
+          </div>
+          <a class="button primary" href="mailto:hy208@leicester.ac.uk">
+            <span aria-hidden="true">@</span>
+            hy208@leicester.ac.uk
+          </a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-grid">
+        <div>
+          <img src="assets/bmvc-2026-logo.png" alt="BMVC 2026">
+          <p>Biomarker-Driven Medical Vision Intelligence · BMVC 2026 Workshop</p>
+        </div>
+        <p>26 November 2026 · Lancaster Town Hall, Lancaster, UK</p>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
