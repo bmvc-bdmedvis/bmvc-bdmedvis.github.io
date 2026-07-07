@@ -639,6 +639,10 @@ h3 {
   grid-template-columns: repeat(3, 1fr);
 }
 
+.organizer-grid .person-card {
+  grid-template-columns: 68px 1fr;
+}
+
 .person-card {
   min-height: 170px;
   padding: 22px;
@@ -651,6 +655,7 @@ h3 {
 .speaker-card {
   min-height: 320px;
   padding: 26px;
+  grid-template-columns: 78px 1fr;
 }
 
 .avatar {
@@ -673,18 +678,44 @@ h3 {
   background: var(--indigo);
 }
 
-.tag {
-  width: fit-content;
-  margin: 0 0 12px;
-  border: 1px solid rgba(11, 111, 121, 0.18);
-  border-radius: 999px;
-  background: rgba(11, 111, 121, 0.08);
-  color: var(--teal-dark) !important;
-  padding: 4px 8px;
-  font-size: 12px;
-  font-weight: 900;
-  line-height: 1;
-  text-transform: uppercase;
+.organizer-photo {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  overflow: hidden;
+  padding: 0;
+  background: #eef5f4;
+  border: 2px solid #ffffff;
+  box-shadow: 0 8px 18px rgba(17, 29, 32, 0.10);
+}
+
+.organizer-photo img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 38%;
+}
+
+.speaker-photo {
+  position: relative;
+  width: 74px;
+  height: 74px;
+  overflow: hidden;
+  padding: 0;
+  background: #eef5f4;
+  border: 2px solid #ffffff;
+  box-shadow: 0 10px 22px rgba(17, 29, 32, 0.12);
+}
+
+.speaker-photo img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 35%;
 }
 
 .person-card .role {
@@ -694,7 +725,7 @@ h3 {
   line-height: 1.45;
 }
 
-.person-card p:not(.role):not(.tag) {
+.person-card p:not(.role) {
   margin-top: 14px;
 }
 
@@ -987,6 +1018,10 @@ h3 {
 
   .timeline article,
   .person-card {
+    grid-template-columns: 1fr;
+  }
+
+  .organizer-grid .person-card {
     grid-template-columns: 1fr;
   }
 
