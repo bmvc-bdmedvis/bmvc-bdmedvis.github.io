@@ -361,7 +361,7 @@ h3 {
 
 .facts {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 1px;
   overflow: hidden;
   border: 1px solid var(--line);
@@ -387,7 +387,9 @@ h3 {
 .date-grid span,
 .topic-list span,
 .pillar-card span,
-.news-card time {
+.news-card time,
+.news-label,
+.session-label {
   color: var(--teal);
   font-size: 13px;
   font-weight: 900;
@@ -602,8 +604,8 @@ h3 {
 
 .program-summary strong {
   color: var(--teal-dark);
-  font-size: 34px;
-  line-height: 1;
+  font-size: 23px;
+  line-height: 1.1;
 }
 
 .timeline {
@@ -621,7 +623,8 @@ h3 {
   padding: 22px;
 }
 
-.timeline time {
+.timeline time,
+.session-label {
   color: var(--coral);
   font-weight: 900;
 }
