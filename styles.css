@@ -754,6 +754,11 @@ h3 {
   font-size: 18px;
 }
 
+.submission-panel .deadline-note {
+  font-size: 14px;
+  line-height: 1.6;
+}
+
 .date-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
