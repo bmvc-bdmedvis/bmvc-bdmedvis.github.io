@@ -1,0 +1,7 @@
+Source: BD-MedVis-2026-A4-Poster-Editable-v2.pptx
+Structure: one portrait A4 slide, no empty slide placeholders, editable slide-local text and embedded raster assets.
+Reusable pattern: the complete poster slide is retained as the only output slide.
+Typography and visual system: Aptos / Aptos Display, dark ink and academic teal, light grid background, red BMVC accent, direct unframed hero artwork.
+Requested edit zone: left half of the hero section only, bounded by x=38..428 and y=106..326.
+Insertion contract: preserve every element outside the three inherited hero text boxes. Reuse and reposition the inherited hero-kicker, hero-title and hero-copy boxes; do not add new primitives or replace assets.
+

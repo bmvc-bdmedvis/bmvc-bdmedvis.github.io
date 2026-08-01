@@ -1,0 +1,33 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "single-page workshop promotion poster",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "shapeId": "sh/cby5k3yt",
+          "action": "rewrite",
+          "reason": "Replace the tiny full-name eyebrow with a small workshop context label."
+        },
+        {
+          "shapeId": "sh/ra54bix8",
+          "action": "rewrite-and-reposition",
+          "reason": "Promote the formal workshop name to the primary hero title."
+        },
+        {
+          "shapeId": "sh/q9wnidgn",
+          "action": "rewrite-and-reposition",
+          "reason": "Turn the former short description into a smaller tagline plus a longer narrative introduction."
+        },
+        {
+          "shapeId": "sh/9kr6lsfm",
+          "action": "rewrite",
+          "reason": "Clarify the event-strip label as Workshop Date and avoid ambiguity with a template date placeholder."
+        }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

@@ -1,0 +1,7 @@
+Slide 1 bounded insertion zone: organizers-surface, x=27..767 and y=811..937.
+Add nine concrete repository images as 28 x 28 px ellipse-cropped portraits. Each portrait is paired with the existing organizer name and affiliation in the same grid cell. No image may overlap the organizer heading, tagline, another portrait, or content outside the organizers-surface.
+The organizer 6–9 inherited text boxes are additionally classified here as rewrite-and-reposition targets because the compact template inspect snapshot omitted them; their exact source aids are sh/m5wz2h8v, sh/n65gvmp0, sh/8reh4rql, sh/9s7yxw76, sh/610ze18z, sh/729076pk, sh/1wb2xkrm and sh/gv214fa1, derived from source-slide-01.layout.json.
+Portrait positions by organizer number:
+1 x=40 y=846; 2 x=278 y=846; 3 x=516 y=846.
+4 x=40 y=876; 5 x=278 y=876; 6 x=516 y=876.
+7 x=40 y=906; 8 x=278 y=906; 9 x=516 y=906.

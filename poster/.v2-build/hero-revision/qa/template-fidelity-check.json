@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-01T12:26:26.461Z",
+  "workspace": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/hero-revision",
+  "finalPptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/BD-MedVis-2026-A4-Poster-Editable-v3.pptx",
+  "starterPptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/hero-revision/template-starter.pptx",
+  "mapPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/hero-revision/template-frame-map.json",
+  "starterLayoutDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/hero-revision/template-starter-layout",
+  "finalLayoutDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/hero-revision/final-layout",
+  "editDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/hero-revision",
+  "issueCount": 0,
+  "issues": []
+}

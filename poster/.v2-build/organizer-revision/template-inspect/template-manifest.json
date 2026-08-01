@@ -1,0 +1,143 @@
+{
+  "sourcePptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/BD-MedVis-2026-A4-Poster-Editable-v3.pptx",
+  "workspace": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision",
+  "outDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect",
+  "generatedAt": "2026-08-01T12:31:35.739Z",
+  "slideCount": 1,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/source-slides/source-slide-01.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-01.png",
+      "layoutPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/layouts/source-slide-01.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-01.layout.json"
+    }
+  ],
+  "inspectPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/template-inspect.ndjson",
+  "inspectRelativePath": "template-inspect/template-inspect.ndjson",
+  "inspectTruncated": true,
+  "inspectMetadata": {
+    "revision": "04s0d3",
+    "target": {
+      "id": "pr/ei4gzo"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [
+    {
+      "entry": "ppt/media/image.png",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image.png",
+      "relativePath": "template-inspect/assets/ppt/media/image.png",
+      "bytes": 65936
+    },
+    {
+      "entry": "ppt/media/image.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image.jpeg",
+      "bytes": 188742
+    },
+    {
+      "entry": "ppt/media/image2.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image2.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image2.jpeg",
+      "bytes": 62610
+    },
+    {
+      "entry": "ppt/media/image3.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image3.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image3.jpeg",
+      "bytes": 89757
+    },
+    {
+      "entry": "ppt/media/image4.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image4.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image4.jpeg",
+      "bytes": 75224
+    },
+    {
+      "entry": "ppt/media/image5.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image5.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image5.jpeg",
+      "bytes": 132960
+    },
+    {
+      "entry": "ppt/media/image6.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image6.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image6.jpeg",
+      "bytes": 57401
+    },
+    {
+      "entry": "ppt/media/image7.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image7.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image7.jpeg",
+      "bytes": 121267
+    },
+    {
+      "entry": "ppt/media/image8.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image8.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image8.jpeg",
+      "bytes": 62352
+    },
+    {
+      "entry": "ppt/media/image9.jpeg",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image9.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image9.jpeg",
+      "bytes": 136018
+    },
+    {
+      "entry": "ppt/media/image2.png",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image2.png",
+      "relativePath": "template-inspect/assets/ppt/media/image2.png",
+      "bytes": 69099
+    },
+    {
+      "entry": "ppt/media/image3.png",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image3.png",
+      "relativePath": "template-inspect/assets/ppt/media/image3.png",
+      "bytes": 11635
+    },
+    {
+      "entry": "ppt/media/image4.png",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image4.png",
+      "relativePath": "template-inspect/assets/ppt/media/image4.png",
+      "bytes": 88394
+    },
+    {
+      "entry": "ppt/media/image5.png",
+      "path": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-inspect/assets/ppt/media/image5.png",
+      "relativePath": "template-inspect/assets/ppt/media/image5.png",
+      "bytes": 9032
+    }
+  ],
+  "fonts": [
+    "+mj-lt",
+    "+mn-lt",
+    "Aptos",
+    "Aptos Display",
+    "Calibri",
+    "Calibri Light"
+  ],
+  "packageParts": {
+    "mediaCount": 14,
+    "slideXmlCount": 1,
+    "chartCount": 0,
+    "tableSlideCount": 0
+  }
+}

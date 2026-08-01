@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-01T12:40:43.111Z",
+  "workspace": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing",
+  "finalPptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/BD-MedVis-2026-A4-Poster-Editable-v5.pptx",
+  "starterPptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-starter.pptx",
+  "mapPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-frame-map.json",
+  "starterLayoutDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-starter-layout",
+  "finalLayoutDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/final-layout",
+  "editDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing",
+  "issueCount": 0,
+  "issues": []
+}

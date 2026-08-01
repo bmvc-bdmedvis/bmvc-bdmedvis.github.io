@@ -1,0 +1,29 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "single-page workshop promotion poster",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "shapeId": "sh/qtwvadcf",
+          "action": "rewrite-and-reposition",
+          "reason": "Defines the bounded organizer zone in which nine authentic portraits are inserted; the inherited surface itself remains visually unchanged."
+        },
+        {
+          "shapeIds": [
+            "sh/3q5czyto", "sh/2pwv6tc3",
+            "sh/psne18bu", "sh/4red83u9",
+            "sh/nm9wb2ts", "sh/ml0v2xcn",
+            "sh/atgz6h8r", "sh/vupgzmpc",
+            "sh/wvyh8rqx", "sh/xw7i1w7i"
+          ],
+          "action": "rewrite-and-reposition",
+          "reason": "Reposition the inherited organizer names and affiliations beside the new portrait slots while preserving wording and typography."
+        }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}

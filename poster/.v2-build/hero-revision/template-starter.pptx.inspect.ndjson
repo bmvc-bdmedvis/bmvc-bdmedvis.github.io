@@ -1,0 +1,174 @@
+{"kind":"deck","id":"pr/cm2sz3","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/6xbq9n","slide":1,"title":"BD-MedVis","textShapes":71}
+{"kind":"shape","id":"sh/fqd8z6t0","slide":1,"name":"grid-v-18","bbox":[18,0,0,1122.52]}
+{"kind":"shape","id":"sh/t8rqdobe","slide":1,"name":"grid-v-54","bbox":[54,0,0,1122.52]}
+{"kind":"shape","id":"sh/87ipk3at","slide":1,"name":"grid-v-90","bbox":[90,0,0,1122.52]}
+{"kind":"shape","id":"sh/z2987etc","slide":1,"name":"grid-v-126","bbox":[126,0,0,1122.52]}
+{"kind":"shape","id":"sh/yh07e9sr","slide":1,"name":"grid-v-162","bbox":[162,0,0,1122.52]}
+{"kind":"shape","id":"sh/l4rq9obi","slide":1,"name":"grid-v-198","bbox":[198,0,0,1122.52]}
+{"kind":"shape","id":"sh/k3ipgjax","slide":1,"name":"grid-v-234","bbox":[234,0,0,1122.52]}
+{"kind":"shape","id":"sh/3yt8ji9g","slide":1,"name":"grid-v-270","bbox":[270,0,0,1122.52]}
+{"kind":"shape","id":"sh/idk7qdsv","slide":1,"name":"grid-v-306","bbox":[306,0,0,1122.52]}
+{"kind":"shape","id":"sh/krulsri1","slide":1,"name":"grid-v-342","bbox":[342,0,0,1122.52]}
+{"kind":"shape","id":"sh/lc3m1wjm","slide":1,"name":"grid-v-378","bbox":[378,0,0,1122.52]}
+{"kind":"shape","id":"sh/yps3q1kv","slide":1,"name":"grid-v-414","bbox":[414,0,0,1122.52]}
+{"kind":"shape","id":"sh/jql4z61g","slide":1,"name":"grid-v-450","bbox":[450,0,0,1122.52]}
+{"kind":"shape","id":"sh/wnal4r2p","slide":1,"name":"grid-v-486","bbox":[486,0,0,1122.52]}
+{"kind":"shape","id":"sh/xojmxwja","slide":1,"name":"grid-v-522","bbox":[522,0,0,1122.52]}
+{"kind":"shape","id":"sh/als32hkz","slide":1,"name":"grid-v-558","bbox":[558,0,0,1122.52]}
+{"kind":"shape","id":"sh/bm14vm14","slide":1,"name":"grid-v-594","bbox":[594,0,0,1122.52]}
+{"kind":"shape","id":"sh/ojal072t","slide":1,"name":"grid-v-630","bbox":[630,0,0,1122.52]}
+{"kind":"shape","id":"sh/9kjmtcje","slide":1,"name":"grid-v-666","bbox":[666,0,0,1122.52]}
+{"kind":"shape","id":"sh/pgb2x8b2","slide":1,"name":"grid-v-702","bbox":[702,0,0,1122.52]}
+{"kind":"shape","id":"sh/of21o3uh","slide":1,"name":"grid-v-738","bbox":[738,0,0,1122.52]}
+{"kind":"shape","id":"sh/3etkvytw","slide":1,"name":"grid-v-774","bbox":[774,0,0,1122.52]}
+{"kind":"shape","id":"sh/2d0jmtcr","slide":1,"name":"grid-h-18","bbox":[0,18,793.7,0]}
+{"kind":"shape","id":"sh/1cr2tob6","slide":1,"name":"grid-h-54","bbox":[0,54,793.7,0]}
+{"kind":"shape","id":"sh/gbi1k3ul","slide":1,"name":"grid-h-90","bbox":[0,90,793.7,0]}
+{"kind":"shape","id":"sh/fa90ryt0","slide":1,"name":"grid-h-126","bbox":[0,126,793.7,0]}
+{"kind":"shape","id":"sh/ep0jitcf","slide":1,"name":"grid-h-162","bbox":[0,162,793.7,0]}
+{"kind":"shape","id":"sh/l8v25sba","slide":1,"name":"grid-h-198","bbox":[0,198,793.7,0]}
+{"kind":"shape","id":"sh/07m1wnup","slide":1,"name":"grid-h-234","bbox":[0,234,793.7,0]}
+{"kind":"shape","id":"sh/yhc7alov","slide":1,"name":"grid-h-270","bbox":[0,270,793.7,0]}
+{"kind":"shape","id":"sh/ji583q5g","slide":1,"name":"grid-h-306","bbox":[0,306,793.7,0]}
+{"kind":"shape","id":"sh/kjepcv61","slide":1,"name":"grid-h-342","bbox":[0,342,793.7,0]}
+{"kind":"shape","id":"sh/lknq50nm","slide":1,"name":"grid-h-378","bbox":[0,378,793.7,0]}
+{"kind":"shape","id":"sh/adc76loz","slide":1,"name":"grid-h-414","bbox":[0,414,793.7,0]}
+{"kind":"shape","id":"sh/bel8zq5k","slide":1,"name":"grid-h-450","bbox":[0,450,793.7,0]}
+{"kind":"shape","id":"sh/wfup8v65","slide":1,"name":"grid-h-486","bbox":[0,486,793.7,0]}
+{"kind":"shape","id":"sh/xg3q10na","slide":1,"name":"grid-h-522","bbox":[0,522,793.7,0]}
+{"kind":"shape","id":"sh/u9g7i5o3","slide":1,"name":"grid-h-558","bbox":[0,558,793.7,0]}
+{"kind":"shape","id":"sh/vap8ba5o","slide":1,"name":"grid-h-594","bbox":[0,594,793.7,0]}
+{"kind":"shape","id":"sh/f2l47m94","slide":1,"name":"grid-h-630","bbox":[0,630,793.7,0]}
+{"kind":"shape","id":"sh/e1c3ehsj","slide":1,"name":"grid-h-666","bbox":[0,666,793.7,0]}
+{"kind":"shape","id":"sh/14nm9cra","slide":1,"name":"grid-h-702","bbox":[0,702,793.7,0]}
+{"kind":"shape","id":"sh/03elgrap","slide":1,"name":"grid-h-738","bbox":[0,738,793.7,0]}
+{"kind":"shape","id":"sh/ryl4329s","slide":1,"name":"grid-h-774","bbox":[0,774,793.7,0]}
+{"kind":"shape","id":"sh/qxc3axsn","slide":1,"name":"grid-h-810","bbox":[0,810,793.7,0]}
+{"kind":"shape","id":"sh/d03m5cry","slide":1,"name":"grid-h-846","bbox":[0,846,793.7,0]}
+{"kind":"shape","id":"sh/szulc7ad","slide":1,"name":"grid-h-882","bbox":[0,882,793.7,0]}
+{"kind":"shape","id":"sh/bu54f69c","slide":1,"name":"grid-h-918","bbox":[0,918,793.7,0]}
+{"kind":"shape","id":"sh/atwnm1sr","slide":1,"name":"grid-h-954","bbox":[0,954,793.7,0]}
+{"kind":"shape","id":"sh/8fq1g3q9","slide":1,"name":"grid-h-990","bbox":[0,990,793.7,0]}
+{"kind":"shape","id":"sh/9gzi987u","slide":1,"name":"grid-h-1026","bbox":[0,1026,793.7,0]}
+{"kind":"shape","id":"sh/md8jet83","slide":1,"name":"grid-h-1062","bbox":[0,1062,793.7,0]}
+{"kind":"shape","id":"sh/7eh07ypo","slide":1,"name":"grid-h-1098","bbox":[0,1098,793.7,0]}
+{"kind":"shape","id":"sh/g3q1k3q5","slide":1,"name":"header-white","bbox":[0,0,793.7,84]}
+{"kind":"shape","id":"sh/h4j2d87q","slide":1,"name":"header-accent","bbox":[0,81,793.7,3]}
+{"kind":"shape","id":"sh/uh8jit8f","slide":1,"name":"brand-accent","bbox":[38,21,4,43]}
+{"kind":"textbox","id":"sh/v2h0bypk","slide":1,"name":"brand-name","text":"BD-MedVis","textPreview":"BD-MedVis","textChars":9,"textLines":1,"bbox":[54,15,250,32]}
+{"kind":"textbox","id":"sh/47a1onqh","slide":1,"name":"brand-subtitle","text":"BMVC 2026 WORKSHOP","textPreview":"BMVC 2026 WORKSHOP","textChars":18,"textLines":1,"bbox":[55,50,220,17]}
+{"kind":"textbox","id":"sh/58j2hs72","slide":1,"name":"header-kicker","text":"37TH BRITISH MACHINE VISION CONFERENCE","textPreview":"37TH BRITISH MACHINE VISION CONFERENCE","textChars":38,"textLines":1,"bbox":[346,31,244,20]}
+{"kind":"textbox","id":"sh/cn61s3il","slide":1,"name":"hero-kicker","text":"BIOMARKER-DRIVEN MEDICAL VISION INTELLIGENCE","textPreview":"BIOMARKER-DRIVEN MEDICAL VISION INTELLIGENCE","textChars":44,"textLines":1,"bbox":[38,106,405,18]}
+{"kind":"textbox","id":"sh/r2x0zih0","slide":1,"name":"hero-title","text":"From pixels to\nclinically credible\nbiomarkers.","textPreview":"From pixels to | clinically credible | biomarkers.","textChars":46,"textLines":3,"bbox":[38,132,390,132]}
+{"kind":"textbox","id":"sh/q1ojqd0f","slide":1,"name":"hero-copy","text":"Turning image-derived phenotypes into biologically grounded, interpretable evidence for precision medicine.","textPreview":"Turning image-derived phenotypes into biologically grounded, interpretable evidence for precision medicine.","textChars":107,"textLines":1,"bbox":[40,274,380,44]}
+{"kind":"textbox","id":"sh/0rq1wnih","slide":1,"name":"hero-triad","text":"DISCOVER  ·  VALIDATE  ·  TRANSLATE","textPreview":"DISCOVER  ·  VALIDATE  ·  TRANSLATE","textChars":35,"textLines":1,"bbox":[467,312,284,16]}
+{"kind":"shape","id":"sh/zqh03ihw","slide":1,"name":"event-strip","bbox":[0,344,793.7,69]}
+{"kind":"shape","id":"sh/epojud0r","slide":1,"name":"event-red","bbox":[0,344,7,69]}
+{"kind":"textbox","id":"sh/hwvitozy","slide":1,"name":"event-label-0","text":"DATE","textPreview":"DATE","textChars":4,"textLines":1,"bbox":[38,358,220,13]}
+{"kind":"textbox","id":"sh/gvm1kjid","slide":1,"name":"event-value-0","text":"26 November 2026","textPreview":"26 November 2026","textChars":16,"textLines":1,"bbox":[38,377,235,19]}
+{"kind":"shape","id":"sh/61kfupgb","slide":1,"name":"event-divider-0","bbox":[258,357,0,39]}
+{"kind":"textbox","id":"sh/72tg3uxw","slide":1,"name":"event-label-1","text":"VENUE","textPreview":"VENUE","textChars":5,"textLines":1,"bbox":[287,358,220,13]}
+{"kind":"textbox","id":"sh/832xwzy1","slide":1,"name":"event-value-1","text":"Lancaster Town Hall · UK","textPreview":"Lancaster Town Hall · UK","textChars":24,"textLines":1,"bbox":[287,377,235,19]}
+{"kind":"shape","id":"sh/t4by54fm","slide":1,"name":"event-divider-1","bbox":[507,357,0,39]}
+{"kind":"textbox","id":"sh/u5kfy9g7","slide":1,"name":"event-label-2","text":"ONLINE","textPreview":"ONLINE","textChars":6,"textLines":1,"bbox":[547,358,205,13]}
+{"kind":"textbox","id":"sh/v6tg7exs","slide":1,"name":"event-value-2","text":"bmvc-bdmedvis.github.io","textPreview":"bmvc-bdmedvis.github.io","textChars":23,"textLines":1,"bbox":[547,377,210,19]}
+{"kind":"shape","id":"sh/g7mh0jyd","slide":1,"name":"why-surface","bbox":[27,429,740,105]}
+{"kind":"textbox","id":"sh/h8vy94fy","slide":1,"name":"why-kicker","text":"WHY THIS WORKSHOP","textPreview":"WHY THIS WORKSHOP","textChars":17,"textLines":1,"bbox":[40,443,160,18]}
+{"kind":"textbox","id":"sh/a90fm5g3","slide":1,"name":"why-copy","text":"Medical vision is moving beyond prediction toward evidence linked to biology, clinical endpoints and patient outcomes. BD-MedVis brings together vision, pathology, radiology and multimodal AI to discover, validate and translate trustworthy imaging biomarkers.","textPreview":"Medical vision is moving beyond prediction toward evidence linked to biology, clinical endpoints and patient outcomes. BD-MedVis brings t...","textChars":259,"textLines":1,"bbox":[40,464,714,39]}
+{"kind":"shape","id":"sh/ba9gvaxo","slide":1,"name":"pillar-biology-bg","bbox":[40,505,168,22]}
+{"kind":"textbox","id":"sh/fix8ra9o","slide":1,"name":"pillar-biology","text":"BIOLOGICAL GROUNDING","textPreview":"BIOLOGICAL GROUNDING","textChars":20,"textLines":1,"bbox":[45,509,158,14]}
+{"kind":"shape","id":"sh/eho7y5sj","slide":1,"name":"pillar-clinical-bg","bbox":[220,505,166,22]}
+{"kind":"textbox","id":"sh/1kzqt0ru","slide":1,"name":"pillar-clinical","text":"CLINICAL CREDIBILITY","textPreview":"CLINICAL CREDIBILITY","textChars":20,"textLines":1,"bbox":[225,509,156,14]}
+{"kind":"shape","id":"sh/gjq90fa9","slide":1,"name":"pillar-reliable-bg","bbox":[398,505,180,22]}
+{"kind":"textbox","id":"sh/3mh8va90","slide":1,"name":"pillar-reliable","text":"RELIABLE & INTERPRETABLE","textPreview":"RELIABLE & INTERPRETABLE","textChars":24,"textLines":1,"bbox":[403,509,170,14]}
+{"kind":"shape","id":"sh/2l8r25sf","slide":1,"name":"pillar-translation-bg","bbox":[590,505,163,22]}
+{"kind":"textbox","id":"sh/p8zqxkr6","slide":1,"name":"pillar-translation","text":"RESPONSIBLE TRANSLATION","textPreview":"RESPONSIBLE TRANSLATION","textChars":23,"textLines":1,"bbox":[595,509,153,14]}
+{"kind":"shape","id":"sh/onq94fal","slide":1,"name":"cfp-surface","bbox":[27,549,445,246]}
+{"kind":"shape","id":"sh/jqd8jqtw","slide":1,"name":"speakers-surface","bbox":[485,549,282,246]}
+{"kind":"textbox","id":"sh/ip47qlsb","slide":1,"name":"cfp-kicker","text":"CALL FOR PAPERS","textPreview":"CALL FOR PAPERS","textChars":15,"textLines":1,"bbox":[40,563,180,18]}
+{"kind":"textbox","id":"sh/8v250rqt","slide":1,"name":"cfp-heading","text":"Share work that makes medical vision matter.","textPreview":"Share work that makes medical vision matter.","textChars":44,"textLines":1,"bbox":[40,583,405,27]}
+{"kind":"textbox","id":"sh/9wb6tw7e","slide":1,"name":"cfp-copy","text":"We welcome original research, methods, benchmarks and clinical perspectives that connect medical images to robust biomarkers and meaningful evidence.","textPreview":"We welcome original research, methods, benchmarks and clinical perspectives that connect medical images to robust biomarkers and meaningf...","textChars":149,"textLines":1,"bbox":[40,612,406,31]}
+{"kind":"shape","id":"sh/mtknyh83","slide":1,"name":"topic-1-dot","bbox":[40,652,5,5]}
+{"kind":"textbox","id":"sh/7ut4rmpo","slide":1,"name":"topic-1","text":"Imaging biomarkers","textPreview":"Imaging biomarkers","textChars":18,"textLines":1,"bbox":[51,648,116,15]}
+{"kind":"shape","id":"sh/kri5w7qx","slide":1,"name":"topic-2-dot","bbox":[175,652,5,5]}
+{"kind":"textbox","id":"sh/lsrmpcri","slide":1,"name":"topic-2","text":"Computational pathology","textPreview":"Computational pathology","textChars":23,"textLines":1,"bbox":[186,648,129,15]}
+{"kind":"shape","id":"sh/yp0nux8r","slide":1,"name":"topic-3-dot","bbox":[325,652,5,5]}
+{"kind":"textbox","id":"sh/zq94n29c","slide":1,"name":"topic-3","text":"Radiogenomics","textPreview":"Radiogenomics","textChars":13,"textLines":1,"bbox":[336,648,109,15]}
+{"kind":"shape","id":"sh/4nm58bq1","slide":1,"name":"topic-4-dot","bbox":[40,671,5,5]}
+{"kind":"textbox","id":"sh/5ov61g7m","slide":1,"name":"topic-4","text":"Multimodal biomedical AI","textPreview":"Multimodal biomedical AI","textChars":24,"textLines":1,"bbox":[51,667,139,15]}
+{"kind":"shape","id":"sh/y54vmp87","slide":1,"name":"topic-5-dot","bbox":[199,671,5,5]}
+{"kind":"textbox","id":"sh/z6dcvapc","slide":1,"name":"topic-5","text":"Reliability & interpretability","textPreview":"Reliability & interpretability","textChars":30,"textLines":1,"bbox":[210,667,141,15]}
+{"kind":"shape","id":"sh/krmdofqx","slide":1,"name":"topic-6-dot","bbox":[358,671,5,5]}
+{"kind":"textbox","id":"sh/lsvuxk7i","slide":1,"name":"topic-6","text":"Clinical translation","textPreview":"Clinical translation","textChars":20,"textLines":1,"bbox":[369,667,85,15]}
+{"kind":"shape","id":"sh/a1kvi58v","slide":1,"name":"deadline-open-bg","bbox":[40,695,124,43]}
+{"kind":"textbox","id":"sh/b2tcrapg","slide":1,"name":"deadline-open-label","text":"SUBMISSIONS OPEN","textPreview":"SUBMISSIONS OPEN","textChars":16,"textLines":1,"bbox":[50,702,104,13]}
+{"kind":"textbox","id":"sh/c3mdkfq1","slide":1,"name":"deadline-open-date","text":"3 Aug 2026","textPreview":"3 Aug 2026","textChars":10,"textLines":1,"bbox":[50,717,104,17]}
+{"kind":"shape","id":"sh/x4vutk7m","slide":1,"name":"deadline-intent-bg","bbox":[172,695,128,43]}
+{"kind":"textbox","id":"sh/2xkve58z","slide":1,"name":"deadline-intent-label","text":"INTENT TO SUBMIT","textPreview":"INTENT TO SUBMIT","textChars":16,"textLines":1,"bbox":[182,702,108,13]}
+{"kind":"textbox","id":"sh/nytcnqpk","slide":1,"name":"deadline-intent-date","text":"28 Aug 2026","textPreview":"28 Aug 2026","textChars":11,"textLines":1,"bbox":[182,717,108,17]}
+{"kind":"shape","id":"sh/5szyt8r2","slide":1,"name":"deadline-full-bg","bbox":[308,695,137,43]}
+{"kind":"textbox","id":"sh/4rqxk3ah","slide":1,"name":"deadline-full-label","text":"FULL PAPER","textPreview":"FULL PAPER","textChars":10,"textLines":1,"bbox":[318,702,117,13]}
+{"kind":"textbox","id":"sh/3qhgry9w","slide":1,"name":"deadline-full-date","text":"4 Sep 2026","textPreview":"4 Sep 2026","textChars":10,"textLines":1,"bbox":[318,717,117,17]}
+{"kind":"shape","id":"sh/ip8fitsb","slide":1,"name":"deadline-notify-bg","bbox":[40,746,124,38]}
+{"kind":"textbox","id":"sh/hozyporq","slide":1,"name":"deadline-notify-label","text":"NOTIFICATION","textPreview":"NOTIFICATION","textChars":12,"textLines":1,"bbox":[50,753,104,13]}
+{"kind":"textbox","id":"sh/gnqxgja5","slide":1,"name":"deadline-notify-date","text":"25 Sep 2026","textPreview":"25 Sep 2026","textChars":11,"textLines":1,"bbox":[50,768,104,12]}
+{"kind":"shape","id":"sh/vmxgne9k","slide":1,"name":"deadline-camera-bg","bbox":[172,746,128,38]}
+{"kind":"textbox","id":"sh/ulofetsf","slide":1,"name":"deadline-camera-label","text":"CAMERA-READY","textPreview":"CAMERA-READY","textChars":12,"textLines":1,"bbox":[182,753,108,13]}
+{"kind":"textbox","id":"sh/t0fyloru","slide":1,"name":"deadline-camera-date","text":"16 Oct 2026","textPreview":"16 Oct 2026","textChars":11,"textLines":1,"bbox":[182,768,108,12]}
+{"kind":"shape","id":"sh/8z6xcja9","slide":1,"name":"deadline-aoe-bg","bbox":[308,746,137,38]}
+{"kind":"textbox","id":"sh/kfuponm1","slide":1,"name":"deadline-aoe-label","text":"DEADLINE TIME","textPreview":"DEADLINE TIME","textChars":13,"textLines":1,"bbox":[318,753,117,13]}
+{"kind":"textbox","id":"sh/lg36h83m","slide":1,"name":"deadline-aoe-date","text":"23:59 AoE","textPreview":"23:59 AoE","textChars":9,"textLines":1,"bbox":[318,768,117,12]}
+{"kind":"textbox","id":"sh/ydc7md4b","slide":1,"name":"speakers-kicker","text":"INVITED SPEAKERS","textPreview":"INVITED SPEAKERS","textChars":16,"textLines":1,"bbox":[499,563,170,18]}
+{"kind":"textbox","id":"sh/wrapk3m5","slide":1,"name":"speaker-yalin-name","text":"Professor Yalin Zheng","textPreview":"Professor Yalin Zheng","textChars":21,"textLines":1,"bbox":[578,594,172,20]}
+{"kind":"textbox","id":"sh/xcj6d83q","slide":1,"name":"speaker-yalin-role","text":"University of Liverpool\nAI in healthcare & ophthalmic imaging","textPreview":"University of Liverpool | AI in healthcare & ophthalmic imaging","textChars":61,"textLines":2,"bbox":[578,618,168,34]}
+{"kind":"shape","id":"sh/aps7it4z","slide":1,"name":"speaker-divider","bbox":[500,672,249,0]}
+{"kind":"textbox","id":"sh/g7epw7m9","slide":1,"name":"speaker-sharib-name","text":"Dr Sharib Ali","textPreview":"Dr Sharib Ali","textChars":13,"textLines":1,"bbox":[578,690,172,20]}
+{"kind":"textbox","id":"sh/h8nqps3u","slide":1,"name":"speaker-sharib-role","text":"University of Leeds\nMedical & surgical image analysis","textPreview":"University of Leeds | Medical & surgical image analysis","textChars":53,"textLines":2,"bbox":[578,714,168,34]}
+{"kind":"textbox","id":"sh/r2psv65c","slide":1,"name":"speaker-note","text":"Two translational perspectives. One shared question: what makes an image-derived biomarker clinically credible?","textPreview":"Two translational perspectives. One shared question: what makes an image-derived biomarker clinically credible?","textChars":111,"textLines":1,"bbox":[501,759,248,25]}
+{"kind":"shape","id":"sh/q1grm1or","slide":1,"name":"organizers-surface","bbox":[27,811,740,126]}
+{"kind":"textbox","id":"sh/d4raxwn2","slide":1,"name":"organizers-kicker","text":"ORGANIZING COMMITTEE","textPreview":"ORGANIZING COMMITTEE","textChars":20,"textLines":1,"bbox":[40,823,200,18]}
+{"kind":"textbox","id":"sh/s3y9or6h","slide":1,"name":"organizers-tagline","text":"An interdisciplinary team spanning medical imaging, biomedical AI and clinical translation.","textPreview":"An interdisciplinary team spanning medical imaging, biomedical AI and clinical translation.","textChars":91,"textLines":1,"bbox":[224,823,529,15]}
+{"kind":"textbox","id":"sh/f69sz658","slide":1,"name":"organizer-1-name","text":"Dr Yang Hu","textPreview":"Dr Yang Hu","textChars":10,"textLines":1,"bbox":[40,849,210,14]}
+{"kind":"textbox","id":"sh/e50rq1on","slide":1,"name":"organizer-1-affiliation","text":"University of Leicester","textPreview":"University of Leicester","textChars":23,"textLines":1,"bbox":[40,863,210,17]}
+{"kind":"textbox","id":"sh/18ra1gne","slide":1,"name":"organizer-2-name","text":"Dr Tianyang Zhang","textPreview":"Dr Tianyang Zhang","textChars":17,"textLines":1,"bbox":[278,849,210,14]}
+{"kind":"textbox","id":"sh/07i9sb6t","slide":1,"name":"organizer-2-affiliation","text":"Oxford / Birmingham","textPreview":"Oxford / Birmingham","textChars":19,"textLines":1,"bbox":[278,863,210,17]}
+{"kind":"textbox","id":"sh/va5snm54","slide":1,"name":"organizer-3-name","text":"Dr He Zhao","textPreview":"Dr He Zhao","textChars":10,"textLines":1,"bbox":[516,849,210,14]}
+{"kind":"textbox","id":"sh/u9wrehoj","slide":1,"name":"organizer-3-affiliation","text":"University of Liverpool","textPreview":"University of Liverpool","textChars":23,"textLines":1,"bbox":[516,863,210,17]}
+{"kind":"textbox","id":"sh/mt0ruhwf","slide":1,"name":"organizer-4-name","text":"Dr Jian Chen","textPreview":"Dr Jian Chen","textChars":12,"textLines":1,"bbox":[40,879,210,14]}
+{"kind":"textbox","id":"sh/7u9s3md0","slide":1,"name":"organizer-4-affiliation","text":"University of Cambridge","textPreview":"University of Cambridge","textChars":23,"textLines":1,"bbox":[40,893,210,17]}
+{"kind":"textbox","id":"sh/8vi9wre5","slide":1,"name":"organizer-5-name","text":"Dr Dan Dai","textPreview":"Dr Dan Dai","textChars":10,"textLines":1,"bbox":[278,879,210,14]}
+{"kind":"textbox","id":"sh/9wra5cvq","slide":1,"name":"organizer-5-affiliation","text":"Aston University","textPreview":"Aston University","textChars":16,"textLines":1,"bbox":[278,893,210,17]}
+{"kind":"textbox","id":"sh/uh0ryhwb","slide":1,"name":"organizer-6-name","text":"Dr Yakun Ju","textPreview":"Dr Yakun Ju","textChars":11,"textLines":1,"bbox":[516,879,210,14]}
+{"kind":"textbox","id":"sh/vits7mdw","slide":1,"name":"organizer-6-affiliation","text":"University of Leicester","textPreview":"University of Leicester","textChars":23,"textLines":1,"bbox":[516,893,210,17]}
+{"kind":"textbox","id":"sh/wj2t0reh","slide":1,"name":"organizer-7-name","text":"Dr Le Zhang","textPreview":"Dr Le Zhang","textChars":11,"textLines":1,"bbox":[40,909,210,14]}
+{"kind":"textbox","id":"sh/hkba9wv2","slide":1,"name":"organizer-7-affiliation","text":"University of Birmingham","textPreview":"University of Birmingham","textChars":24,"textLines":1,"bbox":[40,923,210,17]}
+{"kind":"textbox","id":"sh/ilkb21wn","slide":1,"name":"organizer-8-name","text":"Dr Shangqi Gao","textPreview":"Dr Shangqi Gao","textChars":14,"textLines":1,"bbox":[278,909,210,14]}
+{"kind":"textbox","id":"sh/jmtsb6ds","slide":1,"name":"organizer-8-affiliation","text":"University of Cambridge","textPreview":"University of Cambridge","textChars":23,"textLines":1,"bbox":[278,923,210,17]}
+{"kind":"textbox","id":"sh/tgvu10fa","slide":1,"name":"organizer-9-name","text":"Dr Zheheng Jiang","textPreview":"Dr Zheheng Jiang","textChars":16,"textLines":1,"bbox":[516,909,210,14]}
+{"kind":"textbox","id":"sh/sfmdsvyp","slide":1,"name":"organizer-9-affiliation","text":"University of Leicester","textPreview":"University of Leicester","textChars":23,"textLines":1,"bbox":[516,923,210,17]}
+{"kind":"shape","id":"sh/redczqx4","slide":1,"name":"logo-band","bbox":[0,950,793.7,113]}
+{"kind":"shape","id":"sh/6d4vqlgj","slide":1,"name":"logo-band-top","bbox":[0,950,793.7,0]}
+{"kind":"textbox","id":"sh/1kfu50f6","slide":1,"name":"institutions-heading","text":"ORGANISING INSTITUTIONS","textPreview":"ORGANISING INSTITUTIONS","textChars":23,"textLines":1,"bbox":[38,966,140,18]}
+{"kind":"textbox","id":"sh/9476lsrq","slide":1,"name":"partners-heading","text":"PARTNERS & SUPPORTERS","textPreview":"PARTNERS & SUPPORTERS","textChars":21,"textLines":1,"bbox":[38,1014,160,18]}
+{"kind":"textbox","id":"sh/upg7ux8b","slide":1,"name":"partner-caption","text":"In association with BMVC 2026 and the Lancaster host community","textPreview":"In association with BMVC 2026 and the Lancaster host community","textChars":62,"textLines":1,"bbox":[648,1009,108,36]}
+{"kind":"shape","id":"sh/vq9on29w","slide":1,"name":"footer","bbox":[0,1063,793.7,59.52]}
+{"kind":"textbox","id":"sh/cve5k3ax","slide":1,"name":"footer-event","text":"26 NOVEMBER 2026  ·  LANCASTER TOWN HALL  ·  LANCASTER, UK","textPreview":"26 NOVEMBER 2026  ·  LANCASTER TOWN HALL  ·  LANCASTER, UK","textChars":58,"textLines":1,"bbox":[38,1078,470,17]}
+{"kind":"textbox","id":"sh/xwn6d8ri","slide":1,"name":"footer-contact","text":"bmvc-bdmedvis.github.io\nhy208@leicester.ac.uk","textPreview":"bmvc-bdmedvis.github.io | hy208@leicester.ac.uk","textChars":45,"textLines":2,"bbox":[523,1074,232,30]}
+{"kind":"image","id":"im/nadczqdo","slide":1,"name":"bmvc-logo","bbox":[614,18.3,141,43.4]}
+{"kind":"image","id":"im/obmtsvet","slide":1,"name":"hero-artwork-original","bbox":[462,107,294,196]}
+{"kind":"image","id":"im/pcvu10ve","slide":1,"name":"speaker-yalin-photo","geometry":"ellipse","bbox":[501,593,64,64]}
+{"kind":"image","id":"im/ad4bu5wz","slide":1,"name":"speaker-sharib-photo","geometry":"ellipse","bbox":[501,688,64,64]}
+{"kind":"image","id":"im/bedc3adk","slide":1,"name":"institution-logo-1","bbox":[192.7,958,60.59,34]}
+{"kind":"image","id":"im/cfmtwfe5","slide":1,"name":"institution-logo-2","bbox":[299,958,34,34]}
+{"kind":"image","id":"im/xgfu5kvq","slide":1,"name":"institution-logo-3","bbox":[369,958.11,80,33.78]}
+{"kind":"image","id":"im/yhovypwb","slide":1,"name":"institution-logo-4","bbox":[485,958,34,34]}
+{"kind":"image","id":"im/zixc7adg","slide":1,"name":"institution-logo-5","bbox":[578,958,34,34]}
+{"kind":"image","id":"im/jad83mhw","slide":1,"name":"institution-logo-6","bbox":[668.8,958,38.39,34]}
+{"kind":"image","id":"im/i9k7uh0b","slide":1,"name":"partner-welcome-lancaster","bbox":[207.62,1002,64.77,48]}
+{"kind":"image","id":"im/5cvq5wz2","slide":1,"name":"partner-lancaster-council","bbox":[312.98,1006,82.04,44]}
+{"kind":"image","id":"im/4bmpwrih","slide":1,"name":"partner-lancaster-crest","bbox":[443,1003.82,47,44.36]}
+{"kind":"image","id":"im/ryd87mh8","slide":1,"name":"partner-icvl","bbox":[538,1011.98,104,26.04]}
+{"kind":"notes","id":"nt/6xbq9n","slide":1,"text":"[Sources]\n- /Users/huyang/Workspace/bmvc-bdmedvis.github.io/index.html (workshop title, speakers, organizers, venue, public copy; accessed 2026-08-01)\n- /Users/huyang/Workspace/bmvc-bdmedvis.github.io/WORKSHOP_SCHEDULE.md (confirmed public dates; accessed 2026-08-01)\n- /Users/huyang/Workspace/bmvc-bdmedvis.github.io/assets/hero-front-page.jpg (workshop illustration)\n- /Users/huyang/Workspace/bmvc-bdmedvis.github.io/assets/bmvc-2026-logo.png (BMVC 2026 logo)\n- /Users/huyang/Workspace/bmvc-bdmedvis.github.io/assets/speakers/yalin-zheng.jpg and sharib-ali.jpg (speaker photos)\n- /Users/huyang/Workspace/bmvc-bdmedvis.github.io/assets/universities (organising institution marks)\n- /Users/huyang/Library/CloudStorage/OneDrive-UniversityofLeicester/2025-2026 Leicester-connecting/2026.5 BMVC workshop/BMVC-BDMVI 2026 2.pdf (visual reference and Lancaster/ICVL marks)\n[/Sources]"}

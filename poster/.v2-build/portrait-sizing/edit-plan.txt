@@ -1,0 +1,4 @@
+Slide 1 organizer portrait images are classified as rewrite-and-reposition targets based on source-slide-01.layout.json:
+im/2dwzadg7, im/p07i5sfy, im/ozehcnyd, im/b2p072x4, im/q1gzexgj, im/87ih47eh, im/98ryxcv2, im/m5gz2xwr and im/n6pgv2dw.
+Each inherited 28 x 28 px portrait will become 22 x 22 px and remain centered within its original 28 x 28 px footprint. No text or other element changes.
+

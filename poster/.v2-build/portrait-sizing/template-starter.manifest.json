@@ -1,0 +1,23 @@
+{
+  "sourcePptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/BD-MedVis-2026-A4-Poster-Editable-v4.pptx",
+  "mapPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-frame-map.json",
+  "output": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-starter.pptx",
+  "outputBytes": 1848156,
+  "sourceSlideCount": 1,
+  "slideCount": 1,
+  "previewDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-starter-preview",
+  "layoutDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-starter-layout",
+  "slides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "single-page workshop promotion poster",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-starter-preview/starter-slide-01.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-01.png",
+      "layoutPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/portrait-sizing/template-starter-layout/starter-slide-01.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-01.layout.json"
+    }
+  ]
+}

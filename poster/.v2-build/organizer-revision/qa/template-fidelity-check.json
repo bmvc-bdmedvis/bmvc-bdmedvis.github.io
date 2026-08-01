@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "checkedAt": "2026-08-01T12:34:18.924Z",
+  "workspace": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision",
+  "finalPptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/BD-MedVis-2026-A4-Poster-Editable-v4.pptx",
+  "starterPptx": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-starter.pptx",
+  "mapPath": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-frame-map.json",
+  "starterLayoutDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/template-starter-layout",
+  "finalLayoutDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision/final-layout",
+  "editDir": "/Users/huyang/Workspace/bmvc-bdmedvis.github.io/poster/.v2-build/organizer-revision",
+  "issueCount": 0,
+  "issues": []
+}

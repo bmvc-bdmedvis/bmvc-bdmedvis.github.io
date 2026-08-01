@@ -1,0 +1,2 @@
+The nine organizer portraits remain unchanged first-party project assets embedded in v4. This revision changes only their displayed dimensions and positions.
+

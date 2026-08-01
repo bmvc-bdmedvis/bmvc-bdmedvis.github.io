@@ -1,0 +1,19 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "single-page workshop promotion poster",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        {
+          "shapeId": "sh/qtwvadcf",
+          "action": "rewrite-and-reposition",
+          "reason": "Defines the bounded organizer zone for resizing the nine inherited portrait images; the surface itself remains visually unchanged."
+        }
+      ]
+    }
+  ],
+  "omittedSourceSlides": []
+}
+

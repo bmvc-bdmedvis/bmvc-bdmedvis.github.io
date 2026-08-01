@@ -1,0 +1,27 @@
+{"kind":"textbox","id":"sh/3q5czyto","slide":1,"name":"organizer-1-name","text":"Dr Yang Hu","textPreview":"Dr Yang Hu","textChars":10,"textLines":1,"bbox":[76,847,174,13]}
+{"kind":"textbox","id":"sh/2pwv6tc3","slide":1,"name":"organizer-1-affiliation","text":"University of Leicester","textPreview":"University of Leicester","textChars":23,"textLines":1,"bbox":[76,861,174,12]}
+{"kind":"textbox","id":"sh/psne18bu","slide":1,"name":"organizer-2-name","text":"Dr Tianyang Zhang","textPreview":"Dr Tianyang Zhang","textChars":17,"textLines":1,"bbox":[314,847,174,13]}
+{"kind":"textbox","id":"sh/4red83u9","slide":1,"name":"organizer-2-affiliation","text":"Oxford / Birmingham","textPreview":"Oxford / Birmingham","textChars":19,"textLines":1,"bbox":[314,861,174,12]}
+{"kind":"textbox","id":"sh/nm9wb2ts","slide":1,"name":"organizer-3-name","text":"Dr He Zhao","textPreview":"Dr He Zhao","textChars":10,"textLines":1,"bbox":[552,847,174,13]}
+{"kind":"textbox","id":"sh/ml0v2xcn","slide":1,"name":"organizer-3-affiliation","text":"University of Liverpool","textPreview":"University of Liverpool","textChars":23,"textLines":1,"bbox":[552,861,174,12]}
+{"kind":"textbox","id":"sh/atgz6h8r","slide":1,"name":"organizer-4-name","text":"Dr Jian Chen","textPreview":"Dr Jian Chen","textChars":12,"textLines":1,"bbox":[76,877,174,13]}
+{"kind":"textbox","id":"sh/vupgzmpc","slide":1,"name":"organizer-4-affiliation","text":"University of Cambridge","textPreview":"University of Cambridge","textChars":23,"textLines":1,"bbox":[76,891,174,12]}
+{"kind":"textbox","id":"sh/wvyh8rqx","slide":1,"name":"organizer-5-name","text":"Dr Dan Dai","textPreview":"Dr Dan Dai","textChars":10,"textLines":1,"bbox":[314,877,174,13]}
+{"kind":"textbox","id":"sh/xw7i1w7i","slide":1,"name":"organizer-5-affiliation","text":"Aston University","textPreview":"Aston University","textChars":16,"textLines":1,"bbox":[314,891,174,12]}
+{"kind":"textbox","id":"sh/m5wz2h8v","slide":1,"name":"organizer-6-name","text":"Dr Yakun Ju","textPreview":"Dr Yakun Ju","textChars":11,"textLines":1,"bbox":[552,877,174,13]}
+{"kind":"textbox","id":"sh/n65gvmp0","slide":1,"name":"organizer-6-affiliation","text":"University of Leicester","textPreview":"University of Leicester","textChars":23,"textLines":1,"bbox":[552,891,174,12]}
+{"kind":"textbox","id":"sh/8reh4rql","slide":1,"name":"organizer-7-name","text":"Dr Le Zhang","textPreview":"Dr Le Zhang","textChars":11,"textLines":1,"bbox":[76,907,174,13]}
+{"kind":"textbox","id":"sh/9s7yxw76","slide":1,"name":"organizer-7-affiliation","text":"University of Birmingham","textPreview":"University of Birmingham","textChars":24,"textLines":1,"bbox":[76,921,174,12]}
+{"kind":"textbox","id":"sh/610ze18z","slide":1,"name":"organizer-8-name","text":"Dr Shangqi Gao","textPreview":"Dr Shangqi Gao","textChars":14,"textLines":1,"bbox":[314,907,174,13]}
+{"kind":"textbox","id":"sh/729076pk","slide":1,"name":"organizer-8-affiliation","text":"University of Cambridge","textPreview":"University of Cambridge","textChars":23,"textLines":1,"bbox":[314,921,174,12]}
+{"kind":"textbox","id":"sh/1wb2xkrm","slide":1,"name":"organizer-9-name","text":"Dr Zheheng Jiang","textPreview":"Dr Zheheng Jiang","textChars":16,"textLines":1,"bbox":[552,907,174,13]}
+{"kind":"textbox","id":"sh/gv214fa1","slide":1,"name":"organizer-9-affiliation","text":"University of Leicester","textPreview":"University of Leicester","textChars":23,"textLines":1,"bbox":[552,921,174,12]}
+{"kind":"image","id":"im/2dwzadg7","slide":1,"name":"organizer-1-photo","geometry":"ellipse","alt":"Dr Yang Hu, workshop organizer","bbox":[40,846,28,28]}
+{"kind":"image","id":"im/p07i5sfy","slide":1,"name":"organizer-2-photo","geometry":"ellipse","alt":"Dr Tianyang Zhang, workshop organizer","bbox":[278,846,28,28]}
+{"kind":"image","id":"im/ozehcnyd","slide":1,"name":"organizer-3-photo","geometry":"ellipse","alt":"Dr He Zhao, workshop organizer","bbox":[516,846,28,28]}
+{"kind":"image","id":"im/b2p072x4","slide":1,"name":"organizer-4-photo","geometry":"ellipse","alt":"Dr Jian Chen, workshop organizer","bbox":[40,876,28,28]}
+{"kind":"image","id":"im/q1gzexgj","slide":1,"name":"organizer-5-photo","geometry":"ellipse","alt":"Dr Dan Dai, workshop organizer","bbox":[278,876,28,28]}
+{"kind":"image","id":"im/87ih47eh","slide":1,"name":"organizer-6-photo","geometry":"ellipse","alt":"Dr Yakun Ju, workshop organizer","bbox":[516,876,28,28]}
+{"kind":"image","id":"im/98ryxcv2","slide":1,"name":"organizer-7-photo","geometry":"ellipse","alt":"Dr Le Zhang, workshop organizer","bbox":[40,906,28,28]}
+{"kind":"image","id":"im/m5gz2xwr","slide":1,"name":"organizer-8-photo","geometry":"ellipse","alt":"Dr Shangqi Gao, workshop organizer","bbox":[278,906,28,28]}
+{"kind":"image","id":"im/n6pgv2dw","slide":1,"name":"organizer-9-photo","geometry":"ellipse","alt":"Dr Zheheng Jiang, workshop organizer","bbox":[516,906,28,28]}

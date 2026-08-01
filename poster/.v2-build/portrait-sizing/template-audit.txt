@@ -1,0 +1,5 @@
+Source: BD-MedVis-2026-A4-Poster-Editable-v4.pptx
+Structure: one portrait A4 slide; nine organizer images are editable slide-local ellipse-cropped image elements inside the organizer surface.
+Requested edit zone: organizer surface only, bounded by x=27..767 and y=811..937.
+Insertion contract: preserve all text and all non-organizer imagery. Resize and recenter only the nine inherited organizer portrait images; preserve their source files, crop geometry, row order and identity mapping.
+

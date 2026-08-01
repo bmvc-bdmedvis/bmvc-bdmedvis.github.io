@@ -1,0 +1,4 @@
+Slide 1: The workshop full name is intentionally promoted from the 10.5 px eyebrow into the principal 30 px hero title, as explicitly requested.
+Slide 1: The former large slogan becomes a smaller 13.2 px secondary line inside the existing description box.
+Slide 1: The description box is made taller and moved upward to hold a longer 9.2 px audience-facing introduction without changing the hero artwork or downstream poster structure.
+Slide 1: The event-strip label “DATE” is clarified to “WORKSHOP DATE”; its style and position remain unchanged.

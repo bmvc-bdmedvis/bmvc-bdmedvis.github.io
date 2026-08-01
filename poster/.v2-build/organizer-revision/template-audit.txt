@@ -1,0 +1,7 @@
+Source: BD-MedVis-2026-A4-Poster-Editable-v3.pptx
+Structure: one portrait A4 slide with editable slide-local text and embedded raster assets; no empty structural placeholders.
+Reusable pattern: retain the complete v3 poster as the only output slide.
+Typography and visual system: Aptos / Aptos Display, academic teal and ink, three-column organizer grid inside a rounded white surface.
+Requested edit zone: organizer surface only, bounded by x=27..767 and y=811..937.
+Insertion contract: preserve the organizer surface, heading and tagline; reposition the eighteen existing name/affiliation text boxes to create portrait slots; add nine authentic repository headshots within the organizer surface. Preserve every element outside this bounded zone.
+

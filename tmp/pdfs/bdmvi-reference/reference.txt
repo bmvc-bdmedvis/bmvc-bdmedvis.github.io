@@ -1,0 +1,47 @@
+                                                                  Lancaster, UK
+
+   Biomarker-Driven Medical Vision
+   Intelligence · Workshop
+                                                                                                                                 https://bmvc2026.bmva.org/
+
+ Overview
+  Medical vision is increasingly judged not only by predictive accuracy, but by whether it yields stable, interpretable,
+  and clinically meaningful evidence.
+
+  Biomarker-driven approaches connect BMVC strengths in representation learning, multimodal modelling, and
+  visual reasoning with urgent needs in precision medicine, disease stratification, and treatment-response
+  assessment.
+
+  Foundation models and large-scale biomedical datasets now enable richer image-derived phenotyping — while
+  opening opportunities for biomarker-aware reasoning, multimodal learning, and generative modelling of virtual
+  biomarker patterns.
+
+  Audience: Vision, medical imaging, computational pathology, radiology, multimodal AI, and clinical collaborators.
+  Topics
+
+
+
+
+                                                                                                                                  Multimodel            Reliability
+      Biomarker                                       Pathology                                 Radiology                                  & Translation
+  keynote Talk
+
+                      Prof. Yalin Zheng                                                                        Dr Sharib Ali
+                      Professor of AI in Healthcare ·                                                           Associate Professor
+                      University of Liverpool                                                                   Healthcare · University of Leeds
+
+   Research spanning medical image analysis, AI for                                       Medical & surgical image analysis, endoscopic vision,
+   healthcare, and ophthalmic imaging, including AI-enabled                               cancer diagnosis, robust ML and clinically meaningful AI
+   retinal and systemic disease assessment.                                               evaluation.
+
+   Workshop organisers
+   Dr Yang Hu             Dr Tianyang Zhang             Dr He Zhao                  Jian Chen             Dr Dan Dai          Dr Yakun Ju            Dr Le Zhang
+University of Leicester   University of Birmingham   University of Liverpool   University of Cambridge   Aston Cambridge University of Leicester University of Birmingham
+
+ Dr Shangqi Gao Dr Zheheng Jiang
+University of Cambridge University of Leicester
+
+
+                                                                                                           BMVC 2026 Workshop · 26 November 2026 ·
+                                                                                                           Lancaster Town Hall, Lancaster, UK
+

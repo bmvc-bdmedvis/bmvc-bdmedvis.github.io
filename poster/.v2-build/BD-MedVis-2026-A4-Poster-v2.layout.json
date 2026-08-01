@@ -1,0 +1,7056 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/xuilw4",
+    "id": "xuilw4",
+    "slide": 1,
+    "layoutId": "7ebc42c9-7c10-4df2-bb8b-2d2533b5017a",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "5f3c04f1-b998-4e3e-be09-dfaa11e42250",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F3F7F6",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 793.7,
+      "height": 1122.52
+    }
+  },
+  "theme": {
+    "colorSchemeName": "BD-MedVis Academic Teal",
+    "colors": {
+      "bg1": "#FFFFFF",
+      "bg2": "#F3F7F6",
+      "tx1": "#102329",
+      "tx2": "#607176",
+      "dk1": "#102329",
+      "lt1": "#FFFFFF",
+      "dk2": "#005D66",
+      "lt2": "#F3F7F6",
+      "accent1": "#005D66",
+      "accent2": "#087B83",
+      "accent3": "#D9232E",
+      "accent4": "#E7F1EF",
+      "accent5": "#FBF7F2",
+      "accent6": "#607176",
+      "hlink": "#087B83",
+      "folHlink": "#005D66"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "7ebc42c9-7c10-4df2-bb8b-2d2533b5017a",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "5f3c04f1-b998-4e3e-be09-dfaa11e42250",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "5f3c04f1-b998-4e3e-be09-dfaa11e42250",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkfel0v2",
+      "id": "1",
+      "name": "grid-v-18",
+      "bbox": [
+        18,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2h4vqlcb",
+      "id": "2",
+      "name": "grid-v-54",
+      "bbox": [
+        54,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nidwjqdw",
+      "id": "3",
+      "name": "grid-v-90",
+      "bbox": [
+        90,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fmdovu5",
+      "id": "4",
+      "name": "grid-v-126",
+      "bbox": [
+        126,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gvehgvq",
+      "id": "5",
+      "name": "grid-v-162",
+      "bbox": [
+        162,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/et4vmlcf",
+      "id": "6",
+      "name": "grid-v-198",
+      "bbox": [
+        198,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fedwfqdk",
+      "id": "7",
+      "name": "grid-v-234",
+      "bbox": [
+        234,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kb6x0fup",
+      "id": "8",
+      "name": "grid-v-270",
+      "bbox": [
+        270,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lczetkva",
+      "id": "9",
+      "name": "grid-v-306",
+      "bbox": [
+        306,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7mdonq",
+      "id": "10",
+      "name": "grid-v-342",
+      "bbox": [
+        342,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kby5k365",
+      "id": "11",
+      "name": "grid-v-378",
+      "bbox": [
+        378,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zap4by50",
+      "id": "12",
+      "name": "grid-v-414",
+      "bbox": [
+        414,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y9wnitof",
+      "id": "13",
+      "name": "grid-v-450",
+      "bbox": [
+        450,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x8nm9onu",
+      "id": "14",
+      "name": "grid-v-486",
+      "bbox": [
+        486,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7e5gj69",
+      "id": "15",
+      "name": "grid-v-522",
+      "bbox": [
+        522,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6547epo",
+      "id": "16",
+      "name": "grid-v-558",
+      "bbox": [
+        558,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a5wne9o3",
+      "id": "17",
+      "name": "grid-v-594",
+      "bbox": [
+        594,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4r6l8ny",
+      "id": "18",
+      "name": "grid-v-630",
+      "bbox": [
+        630,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w3i5sn6d",
+      "id": "19",
+      "name": "grid-v-666",
+      "bbox": [
+        666,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gnqporep",
+      "id": "20",
+      "name": "grid-v-702",
+      "bbox": [
+        702,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h8zqhwva",
+      "id": "21",
+      "name": "grid-v-738",
+      "bbox": [
+        738,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ul87mhwj",
+      "id": "22",
+      "name": "grid-v-774",
+      "bbox": [
+        774,
+        0,
+        0,
+        1122.52
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fmh8fmd4",
+      "id": "23",
+      "name": "grid-h-18",
+      "bbox": [
+        0,
+        18,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sj6pk7et",
+      "id": "24",
+      "name": "grid-h-54",
+      "bbox": [
+        0,
+        54,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tkf6dcvy",
+      "id": "25",
+      "name": "grid-h-90",
+      "bbox": [
+        0,
+        90,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6ho7ihwn",
+      "id": "26",
+      "name": "grid-h-126",
+      "bbox": [
+        0,
+        126,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ixob2d8",
+      "id": "27",
+      "name": "grid-h-162",
+      "bbox": [
+        0,
+        162,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6pg7eh",
+      "id": "28",
+      "name": "grid-h-198",
+      "bbox": [
+        0,
+        198,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5gf69cv2",
+      "id": "29",
+      "name": "grid-h-234",
+      "bbox": [
+        0,
+        234,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nad8j2h4",
+      "id": "30",
+      "name": "grid-h-270",
+      "bbox": [
+        0,
+        270,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mp47qxgj",
+      "id": "31",
+      "name": "grid-h-306",
+      "bbox": [
+        0,
+        306,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cvqlczu",
+      "id": "32",
+      "name": "grid-h-342",
+      "bbox": [
+        0,
+        342,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bmps7y9",
+      "id": "33",
+      "name": "grid-h-378",
+      "bbox": [
+        0,
+        378,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vex8n2x0",
+      "id": "34",
+      "name": "grid-h-414",
+      "bbox": [
+        0,
+        414,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ad4ruxgf",
+      "id": "35",
+      "name": "grid-h-450",
+      "bbox": [
+        0,
+        450,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xgfqpcf6",
+      "id": "36",
+      "name": "grid-h-486",
+      "bbox": [
+        0,
+        486,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wf69w7yl",
+      "id": "37",
+      "name": "grid-h-522",
+      "bbox": [
+        0,
+        522,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jix8rmxw",
+      "id": "38",
+      "name": "grid-h-558",
+      "bbox": [
+        0,
+        558,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ihoryhgr",
+      "id": "39",
+      "name": "grid-h-594",
+      "bbox": [
+        0,
+        594,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2xgjapsz",
+      "id": "40",
+      "name": "grid-h-630",
+      "bbox": [
+        0,
+        630,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ypkju9k",
+      "id": "41",
+      "name": "grid-h-666",
+      "bbox": [
+        0,
+        666,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4zy1cfa5",
+      "id": "42",
+      "name": "grid-h-702",
+      "bbox": [
+        0,
+        702,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p072lkrq",
+      "id": "43",
+      "name": "grid-h-738",
+      "bbox": [
+        0,
+        738,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1gjepsv",
+      "id": "44",
+      "name": "grid-h-774",
+      "bbox": [
+        0,
+        774,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b29knu9g",
+      "id": "45",
+      "name": "grid-h-810",
+      "bbox": [
+        0,
+        810,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3i1gza1",
+      "id": "46",
+      "name": "grid-h-846",
+      "bbox": [
+        0,
+        846,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dor2p4rm",
+      "id": "47",
+      "name": "grid-h-882",
+      "bbox": [
+        0,
+        882,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65wj25sr",
+      "id": "48",
+      "name": "grid-h-918",
+      "bbox": [
+        0,
+        918,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7650ba9c",
+      "id": "49",
+      "name": "grid-h-954",
+      "bbox": [
+        0,
+        954,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kbmh8bu",
+      "id": "50",
+      "name": "grid-h-990",
+      "bbox": [
+        0,
+        990,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8j25o3u9",
+      "id": "51",
+      "name": "grid-h-1026",
+      "bbox": [
+        0,
+        1026,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nit4fyto",
+      "id": "52",
+      "name": "grid-h-1062",
+      "bbox": [
+        0,
+        1062,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mxk3mtc3",
+      "id": "53",
+      "name": "grid-h-1098",
+      "bbox": [
+        0,
+        1098,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#E7ECEA",
+      "lineWidth": 0.45
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xovml8bq",
+      "id": "54",
+      "name": "header-white",
+      "bbox": [
+        0,
+        0,
+        793.7,
+        84
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wnm5s3ul",
+      "id": "55",
+      "name": "header-accent",
+      "bbox": [
+        0,
+        81,
+        793.7,
+        3
+      ],
+      "geometry": "rect",
+      "fillColor": "#005D66",
+      "lineWidth": 0
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmd4jit0",
+      "id": "56",
+      "name": "brand-accent",
+      "bbox": [
+        38,
+        21,
+        4,
+        43
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9232E",
+      "lineWidth": 0
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/alknqdcf",
+      "id": "57",
+      "name": "brand-name",
+      "bbox": [
+        54,
+        15,
+        250,
+        32
+      ],
+      "geometry": "rect",
+      "text": "BD-MedVis",
+      "textPreview": "BD-MedVis",
+      "resolvedFontSize": 26.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 27,
+        "typeface": "Aptos Display",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.99,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BD-MedVis"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BD-MedVis",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Aptos Display",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BD-MedVis",
+              "fontSize": 27,
+              "typeface": "Aptos Display",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsrm9obm",
+      "id": "58",
+      "name": "brand-subtitle",
+      "bbox": [
+        55,
+        50,
+        220,
+        17
+      ],
+      "geometry": "rect",
+      "text": "BMVC 2026 WORKSHOP",
+      "textPreview": "BMVC 2026 WORKSHOP",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BMVC 2026 WORKSHOP"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BMVC 2026 WORKSHOP",
+          "resolvedTextStyle": {
+            "fontSize": 11,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BMVC 2026 WORKSHOP",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 59,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/crilgju1",
+      "id": "59",
+      "name": "header-kicker",
+      "bbox": [
+        346,
+        31,
+        244,
+        20
+      ],
+      "geometry": "rect",
+      "text": "37TH BRITISH MACHINE VISION CONFERENCE",
+      "textPreview": "37TH BRITISH MACHINE VISION CONFERENCE",
+      "resolvedFontSize": 8.4,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.4,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "37TH BRITISH MACHINE VISION CONFERENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "37TH BRITISH MACHINE VISION CONFERENCE",
+          "resolvedTextStyle": {
+            "fontSize": 8.4,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "37TH BRITISH MACHINE VISION CONFERENCE",
+              "fontSize": 8.4,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 60,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/7atonqlk",
+      "id": "60",
+      "name": "bmvc-logo",
+      "bbox": [
+        614,
+        18,
+        141,
+        44
+      ],
+      "geometry": "rect",
+      "alt": "BMVC 2026 logo",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "48058f3d-9c5b-40c0-8bb0-43270553a571",
+        "contentType": "image/png",
+        "byteLength": 65936
+      }
+    },
+    {
+      "order": 61,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pcvmpoji",
+      "id": "61",
+      "name": "hero-kicker",
+      "bbox": [
+        38,
+        106,
+        405,
+        18
+      ],
+      "geometry": "rect",
+      "text": "BIOMARKER-DRIVEN MEDICAL VISION INTELLIGENCE",
+      "textPreview": "BIOMARKER-DRIVEN MEDICAL VISION INTELLIGENCE",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BIOMARKER-DRIVEN MEDICAL VISION INTELLIGENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BIOMARKER-DRIVEN MEDICAL VISION INTELLIGENCE",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BIOMARKER-DRIVEN MEDICAL VISION INTELLIGENCE",
+              "fontSize": 10.51,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 62,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i94nu9kr",
+      "id": "62",
+      "name": "hero-title",
+      "bbox": [
+        38,
+        132,
+        390,
+        132
+      ],
+      "geometry": "rect",
+      "text": "From pixels to\nclinically credible\nbiomarkers.",
+      "textPreview": "From pixels to | clinically credible | biomarkers.",
+      "resolvedFontSize": 37,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 37,
+        "typeface": "Aptos Display",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "From pixels to"
+          },
+          {
+            "index": 2,
+            "text": "clinically credible"
+          },
+          {
+            "index": 3,
+            "text": "biomarkers."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "From pixels to",
+          "lineSpacingPercent": 88000,
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "typeface": "Aptos Display",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.88
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "From pixels to",
+              "fontSize": 37,
+              "typeface": "Aptos Display",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.88
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "clinically credible",
+          "lineSpacingPercent": 88000,
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "typeface": "Aptos Display",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.88
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "clinically credible",
+              "fontSize": 37,
+              "typeface": "Aptos Display",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.88
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "biomarkers.",
+          "lineSpacingPercent": 88000,
+          "resolvedTextStyle": {
+            "fontSize": 37,
+            "typeface": "Aptos Display",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.88
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "biomarkers.",
+              "fontSize": 37,
+              "typeface": "Aptos Display",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.88
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 63,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ad4ne1c",
+      "id": "63",
+      "name": "hero-copy",
+      "bbox": [
+        40,
+        274,
+        380,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Turning image-derived phenotypes into biologically grounded, interpretable evidence for precision medicine.",
+      "textPreview": "Turning image-derived phenotypes into biologically grounded, interpretable evidence for precision medicine.",
+      "resolvedFontSize": 13.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Turning image-derived phenotypes into biologically grounded,"
+          },
+          {
+            "index": 2,
+            "text": "interpretable evidence for precision medicine."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Turning image-derived phenotypes into biologically grounded, interpretable evidence for precision medicine.",
+          "lineSpacingPercent": 103000,
+          "resolvedTextStyle": {
+            "fontSize": 13.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 1.03
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Turning image-derived phenotypes into biologically grounded, interpretable evidence for precision medicine.",
+              "fontSize": 13.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 1.03
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 64,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/vetorqlg",
+      "id": "64",
+      "name": "hero-artwork-original",
+      "bbox": [
+        462,
+        107,
+        294,
+        196
+      ],
+      "geometry": "rect",
+      "alt": "Medical vision workshop illustration",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "411f83b4-ee83-4e8e-9b64-7dc2f3941ef7",
+        "contentType": "image/jpeg",
+        "byteLength": 188742
+      }
+    },
+    {
+      "order": 65,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0fmtoje",
+      "id": "65",
+      "name": "hero-triad",
+      "bbox": [
+        467,
+        312,
+        284,
+        16
+      ],
+      "geometry": "rect",
+      "text": "DISCOVER  ·  VALIDATE  ·  TRANSLATE",
+      "textPreview": "DISCOVER  ·  VALIDATE  ·  TRANSLATE",
+      "resolvedFontSize": 9.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.2,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DISCOVER  ·  VALIDATE  ·  TRANSLATE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DISCOVER  ·  VALIDATE  ·  TRANSLATE",
+          "resolvedTextStyle": {
+            "fontSize": 9.2,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DISCOVER  ·  VALIDATE  ·  TRANSLATE",
+              "fontSize": 9.2,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 66,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qd4nytk3",
+      "id": "66",
+      "name": "event-strip",
+      "bbox": [
+        0,
+        344,
+        793.7,
+        69
+      ],
+      "geometry": "rect",
+      "fillColor": "#005D66",
+      "lineWidth": 0
+    },
+    {
+      "order": 67,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ryd4ry1o",
+      "id": "67",
+      "name": "event-red",
+      "bbox": [
+        0,
+        344,
+        7,
+        69
+      ],
+      "geometry": "rect",
+      "fillColor": "#D9232E",
+      "lineWidth": 0
+    },
+    {
+      "order": 68,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/03654325",
+      "id": "68",
+      "name": "event-label-0",
+      "bbox": [
+        38,
+        358,
+        220,
+        13
+      ],
+      "geometry": "rect",
+      "text": "DATE",
+      "textPreview": "DATE",
+      "resolvedFontSize": 7.6,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.6,
+        "typeface": "Aptos",
+        "color": "#A8D0CD",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DATE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DATE",
+          "resolvedTextStyle": {
+            "fontSize": 7.6,
+            "typeface": "Aptos",
+            "color": "#A8D0CD",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DATE",
+              "fontSize": 7.6,
+              "typeface": "Aptos",
+              "color": "#A8D0CD",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 69,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/14fmx8jq",
+      "id": "69",
+      "name": "event-value-0",
+      "bbox": [
+        38,
+        377,
+        235,
+        19
+      ],
+      "geometry": "rect",
+      "text": "26 November 2026",
+      "textPreview": "26 November 2026",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "26 November 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "26 November 2026",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "26 November 2026",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 70,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/va1gj6p4",
+      "id": "70",
+      "name": "event-divider-0",
+      "bbox": [
+        258,
+        357,
+        0,
+        39
+      ],
+      "geometry": "line",
+      "lineColor": "#3B8389",
+      "lineWidth": 1
+    },
+    {
+      "order": 71,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9sza18j",
+      "id": "71",
+      "name": "event-label-1",
+      "bbox": [
+        287,
+        358,
+        220,
+        13
+      ],
+      "geometry": "rect",
+      "text": "VENUE",
+      "textPreview": "VENUE",
+      "resolvedFontSize": 7.6,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.6,
+        "typeface": "Aptos",
+        "color": "#A8D0CD",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "VENUE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "VENUE",
+          "resolvedTextStyle": {
+            "fontSize": 7.6,
+            "typeface": "Aptos",
+            "color": "#A8D0CD",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "VENUE",
+              "fontSize": 7.6,
+              "typeface": "Aptos",
+              "color": "#A8D0CD",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 72,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc3ylw7a",
+      "id": "72",
+      "name": "event-value-1",
+      "bbox": [
+        287,
+        377,
+        235,
+        19
+      ],
+      "geometry": "rect",
+      "text": "Lancaster Town Hall · UK",
+      "textPreview": "Lancaster Town Hall · UK",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Lancaster Town Hall · UK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Lancaster Town Hall · UK",
+          "resolvedTextStyle": {
+            "fontSize": 14,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Lancaster Town Hall · UK",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 73,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbahcbqp",
+      "id": "73",
+      "name": "event-divider-1",
+      "bbox": [
+        507,
+        357,
+        0,
+        39
+      ],
+      "geometry": "line",
+      "lineColor": "#3B8389",
+      "lineWidth": 1
+    },
+    {
+      "order": 74,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n61gfmps",
+      "id": "74",
+      "name": "event-label-2",
+      "bbox": [
+        547,
+        358,
+        205,
+        13
+      ],
+      "geometry": "rect",
+      "text": "ONLINE",
+      "textPreview": "ONLINE",
+      "resolvedFontSize": 7.6,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.6,
+        "typeface": "Aptos",
+        "color": "#A8D0CD",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ONLINE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ONLINE",
+          "resolvedTextStyle": {
+            "fontSize": 7.6,
+            "typeface": "Aptos",
+            "color": "#A8D0CD",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ONLINE",
+              "fontSize": 7.6,
+              "typeface": "Aptos",
+              "color": "#A8D0CD",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 75,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m5sf6h8n",
+      "id": "75",
+      "name": "event-value-2",
+      "bbox": [
+        547,
+        377,
+        210,
+        19
+      ],
+      "geometry": "rect",
+      "text": "bmvc-bdmedvis.github.io",
+      "textPreview": "bmvc-bdmedvis.github.io",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "bmvc-bdmedvis.github.io"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "bmvc-bdmedvis.github.io",
+          "resolvedTextStyle": {
+            "fontSize": 11.51,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "bmvc-bdmedvis.github.io",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 76,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/98jyhw7y",
+      "id": "76",
+      "name": "why-surface",
+      "bbox": [
+        27,
+        429,
+        740,
+        105
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 77,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ax8rqd",
+      "id": "77",
+      "name": "why-kicker",
+      "bbox": [
+        40,
+        443,
+        160,
+        18
+      ],
+      "geometry": "rect",
+      "text": "WHY THIS WORKSHOP",
+      "textPreview": "WHY THIS WORKSHOP",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WHY THIS WORKSHOP"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WHY THIS WORKSHOP",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WHY THIS WORKSHOP",
+              "fontSize": 10.51,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 78,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72lgrqpc",
+      "id": "78",
+      "name": "why-copy",
+      "bbox": [
+        40,
+        464,
+        714,
+        39
+      ],
+      "geometry": "rect",
+      "text": "Medical vision is moving beyond prediction toward evidence linked to biology, clinical endpoints and patient outcomes. BD-MedVis brings together vision, pathology, radiology and multimodal AI to discover, validate and translate trustworthy imaging biomarkers.",
+      "textPreview": "Medical vision is moving beyond prediction toward evidence linked to biology, clinical endpoints and patient outcomes. BD-MedVis brings t...",
+      "resolvedFontSize": 10.91,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.91,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Medical vision is moving beyond prediction toward evidence linked to biology, clinical endpoints and patient outcomes. BD-MedVis brings"
+          },
+          {
+            "index": 2,
+            "text": "together vision, pathology, radiology and multimodal AI to discover, validate and translate trustworthy imaging biomarkers."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Medical vision is moving beyond prediction toward evidence linked to biology, clinical endpoints and patient outcomes. BD-MedVis brings together vision, pathology, radiology and multimodal AI to discover, validate and translate trustworthy imaging biomarkers.",
+          "lineSpacingPercent": 102000,
+          "resolvedTextStyle": {
+            "fontSize": 10.91,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 1.02
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Medical vision is moving beyond prediction toward evidence linked to biology, clinical endpoints and patient outcomes. BD-MedVis brings together vision, pathology, radiology and multimodal AI to discover, validate and translate trustworthy imaging biomarkers.",
+              "fontSize": 10.91,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 1.02
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 79,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61czil8r",
+      "id": "79",
+      "name": "pillar-biology-bg",
+      "bbox": [
+        40,
+        505,
+        168,
+        22
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E7F1EF",
+      "lineWidth": 0
+    },
+    {
+      "order": 80,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i18fe9on",
+      "id": "80",
+      "name": "pillar-biology",
+      "bbox": [
+        45,
+        509,
+        158,
+        14
+      ],
+      "geometry": "rect",
+      "text": "BIOLOGICAL GROUNDING",
+      "textPreview": "BIOLOGICAL GROUNDING",
+      "resolvedFontSize": 8.2,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.2,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "BIOLOGICAL GROUNDING"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "BIOLOGICAL GROUNDING",
+          "resolvedTextStyle": {
+            "fontSize": 8.2,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "BIOLOGICAL GROUNDING",
+              "fontSize": 8.2,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 81,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32hwne58",
+      "id": "81",
+      "name": "pillar-clinical-bg",
+      "bbox": [
+        220,
+        505,
+        166,
+        22
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E7F1EF",
+      "lineWidth": 0
+    },
+    {
+      "order": 82,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/43qxgj6t",
+      "id": "82",
+      "name": "pillar-clinical",
+      "bbox": [
+        225,
+        509,
+        156,
+        14
+      ],
+      "geometry": "rect",
+      "text": "CLINICAL CREDIBILITY",
+      "textPreview": "CLINICAL CREDIBILITY",
+      "resolvedFontSize": 8.2,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.2,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CLINICAL CREDIBILITY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CLINICAL CREDIBILITY",
+          "resolvedTextStyle": {
+            "fontSize": 8.2,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CLINICAL CREDIBILITY",
+              "fontSize": 8.2,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 83,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/54zepony",
+      "id": "83",
+      "name": "pillar-reliable-bg",
+      "bbox": [
+        398,
+        505,
+        180,
+        22
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E7F1EF",
+      "lineWidth": 0
+    },
+    {
+      "order": 84,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uxofa9ob",
+      "id": "84",
+      "name": "pillar-reliable",
+      "bbox": [
+        403,
+        509,
+        170,
+        14
+      ],
+      "geometry": "rect",
+      "text": "RELIABLE & INTERPRETABLE",
+      "textPreview": "RELIABLE & INTERPRETABLE",
+      "resolvedFontSize": 8.2,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.2,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RELIABLE & INTERPRETABLE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RELIABLE & INTERPRETABLE",
+          "resolvedTextStyle": {
+            "fontSize": 8.2,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RELIABLE & INTERPRETABLE",
+              "fontSize": 8.2,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 85,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vyhwjepw",
+      "id": "85",
+      "name": "pillar-translation-bg",
+      "bbox": [
+        590,
+        505,
+        163,
+        22
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#E7F1EF",
+      "lineWidth": 0
+    },
+    {
+      "order": 86,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gzqxcz6h",
+      "id": "86",
+      "name": "pillar-translation",
+      "bbox": [
+        595,
+        509,
+        153,
+        14
+      ],
+      "geometry": "rect",
+      "text": "RESPONSIBLE TRANSLATION",
+      "textPreview": "RESPONSIBLE TRANSLATION",
+      "resolvedFontSize": 8.2,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.2,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "RESPONSIBLE TRANSLATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "RESPONSIBLE TRANSLATION",
+          "resolvedTextStyle": {
+            "fontSize": 8.2,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "RESPONSIBLE TRANSLATION",
+              "fontSize": 8.2,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 87,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0zel4n2",
+      "id": "87",
+      "name": "cfp-surface",
+      "bbox": [
+        27,
+        549,
+        445,
+        246
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 88,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/69ov6pof",
+      "id": "88",
+      "name": "speakers-surface",
+      "bbox": [
+        485,
+        549,
+        282,
+        246
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FBF7F2",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 89,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7axwfup0",
+      "id": "89",
+      "name": "cfp-kicker",
+      "bbox": [
+        40,
+        563,
+        180,
+        18
+      ],
+      "geometry": "rect",
+      "text": "CALL FOR PAPERS",
+      "textPreview": "CALL FOR PAPERS",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CALL FOR PAPERS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CALL FOR PAPERS",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CALL FOR PAPERS",
+              "fontSize": 10.51,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 90,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/90nq1wbu",
+      "id": "90",
+      "name": "cfp-heading",
+      "bbox": [
+        40,
+        583,
+        405,
+        27
+      ],
+      "geometry": "rect",
+      "text": "Share work that makes medical vision matter.",
+      "textPreview": "Share work that makes medical vision matter.",
+      "resolvedFontSize": 17.8,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 17.8,
+        "typeface": "Aptos Display",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Share work that makes medical vision matter."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Share work that makes medical vision matter.",
+          "resolvedTextStyle": {
+            "fontSize": 17.8,
+            "typeface": "Aptos Display",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Share work that makes medical vision matter.",
+              "fontSize": 17.8,
+              "typeface": "Aptos Display",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 91,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oze98ru9",
+      "id": "91",
+      "name": "cfp-copy",
+      "bbox": [
+        40,
+        612,
+        406,
+        31
+      ],
+      "geometry": "rect",
+      "text": "We welcome original research, methods, benchmarks and clinical perspectives that connect medical images to robust biomarkers and meaningful evidence.",
+      "textPreview": "We welcome original research, methods, benchmarks and clinical perspectives that connect medical images to robust biomarkers and meaningf...",
+      "resolvedFontSize": 9.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "We welcome original research, methods, benchmarks and clinical perspectives that connect"
+          },
+          {
+            "index": 2,
+            "text": "medical images to robust biomarkers and meaningful evidence."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "We welcome original research, methods, benchmarks and clinical perspectives that connect medical images to robust biomarkers and meaningful evidence.",
+          "lineSpacingPercent": 102000,
+          "resolvedTextStyle": {
+            "fontSize": 9.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 1.02
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "We welcome original research, methods, benchmarks and clinical perspectives that connect medical images to robust biomarkers and meaningful evidence.",
+              "fontSize": 9.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 1.02
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 92,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ny58zmto",
+      "id": "92",
+      "name": "topic-1-dot",
+      "bbox": [
+        40,
+        652,
+        5,
+        5
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#087B83",
+      "lineWidth": 0
+    },
+    {
+      "order": 93,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdwr6hc3",
+      "id": "93",
+      "name": "topic-1",
+      "bbox": [
+        51,
+        648,
+        116,
+        15
+      ],
+      "geometry": "rect",
+      "text": "Imaging biomarkers",
+      "textPreview": "Imaging biomarkers",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Imaging biomarkers"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Imaging biomarkers",
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Imaging biomarkers",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 94,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cnqxcbi",
+      "id": "94",
+      "name": "topic-2-dot",
+      "bbox": [
+        175,
+        652,
+        5,
+        5
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#087B83",
+      "lineWidth": 0
+    },
+    {
+      "order": 95,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0be947ux",
+      "id": "95",
+      "name": "topic-2",
+      "bbox": [
+        186,
+        648,
+        129,
+        15
+      ],
+      "geometry": "rect",
+      "text": "Computational pathology",
+      "textPreview": "Computational pathology",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Computational pathology"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Computational pathology",
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Computational pathology",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 96,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za58vmdc",
+      "id": "96",
+      "name": "topic-3-dot",
+      "bbox": [
+        325,
+        652,
+        5,
+        5
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#087B83",
+      "lineWidth": 0
+    },
+    {
+      "order": 97,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9c72hc7",
+      "id": "97",
+      "name": "topic-3",
+      "bbox": [
+        336,
+        648,
+        109,
+        15
+      ],
+      "geometry": "rect",
+      "text": "Radiogenomics",
+      "textPreview": "Radiogenomics",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Radiogenomics"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Radiogenomics",
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Radiogenomics",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 98,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d83qtcvm",
+      "id": "98",
+      "name": "topic-4-dot",
+      "bbox": [
+        40,
+        671,
+        5,
+        5
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#087B83",
+      "lineWidth": 0
+    },
+    {
+      "order": 99,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7up07u1",
+      "id": "99",
+      "name": "topic-4",
+      "bbox": [
+        51,
+        667,
+        139,
+        15
+      ],
+      "geometry": "rect",
+      "text": "Multimodal biomedical AI",
+      "textPreview": "Multimodal biomedical AI",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Multimodal biomedical AI"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Multimodal biomedical AI",
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Multimodal biomedical AI",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 100,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwvypkre",
+      "id": "100",
+      "name": "topic-5-dot",
+      "bbox": [
+        199,
+        671,
+        5,
+        5
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#087B83",
+      "lineWidth": 0
+    },
+    {
+      "order": 101,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvmxgfqt",
+      "id": "101",
+      "name": "topic-5",
+      "bbox": [
+        210,
+        667,
+        141,
+        15
+      ],
+      "geometry": "rect",
+      "text": "Reliability & interpretability",
+      "textPreview": "Reliability & interpretability",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Reliability & interpretability"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Reliability & interpretability",
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Reliability & interpretability",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 102,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/budgna98",
+      "id": "102",
+      "name": "topic-6-dot",
+      "bbox": [
+        358,
+        671,
+        5,
+        5
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#087B83",
+      "lineWidth": 0
+    },
+    {
+      "order": 103,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt4fe58n",
+      "id": "103",
+      "name": "topic-6",
+      "bbox": [
+        369,
+        667,
+        85,
+        15
+      ],
+      "geometry": "rect",
+      "text": "Clinical translation",
+      "textPreview": "Clinical translation",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Clinical translation"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Clinical translation",
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Clinical translation",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 104,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psvel0r2",
+      "id": "104",
+      "name": "deadline-open-bg",
+      "bbox": [
+        40,
+        695,
+        124,
+        43
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 105,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7mxcvqh",
+      "id": "105",
+      "name": "deadline-open-label",
+      "bbox": [
+        50,
+        702,
+        104,
+        13
+      ],
+      "geometry": "rect",
+      "text": "SUBMISSIONS OPEN",
+      "textPreview": "SUBMISSIONS OPEN",
+      "resolvedFontSize": 7.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.2,
+        "typeface": "Aptos",
+        "color": "#087B83",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SUBMISSIONS OPEN"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SUBMISSIONS OPEN",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 7.2,
+            "typeface": "Aptos",
+            "color": "#087B83",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SUBMISSIONS OPEN",
+              "fontSize": 7.2,
+              "typeface": "Aptos",
+              "color": "#087B83",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 106,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36twja9w",
+      "id": "106",
+      "name": "deadline-open-date",
+      "bbox": [
+        50,
+        717,
+        104,
+        17
+      ],
+      "geometry": "rect",
+      "text": "3 Aug 2026",
+      "textPreview": "3 Aug 2026",
+      "resolvedFontSize": 10.8,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 10.8,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3 Aug 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3 Aug 2026",
+          "resolvedTextStyle": {
+            "fontSize": 10.8,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3 Aug 2026",
+              "fontSize": 10.8,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 107,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/25kfa58r",
+      "id": "107",
+      "name": "deadline-intent-bg",
+      "bbox": [
+        172,
+        695,
+        128,
+        43
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 108,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9ofyx4r6",
+      "id": "108",
+      "name": "deadline-intent-label",
+      "bbox": [
+        182,
+        702,
+        108,
+        13
+      ],
+      "geometry": "rect",
+      "text": "INTENT TO SUBMIT",
+      "textPreview": "INTENT TO SUBMIT",
+      "resolvedFontSize": 7.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.2,
+        "typeface": "Aptos",
+        "color": "#087B83",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INTENT TO SUBMIT"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INTENT TO SUBMIT",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 7.2,
+            "typeface": "Aptos",
+            "color": "#087B83",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INTENT TO SUBMIT",
+              "fontSize": 7.2,
+              "typeface": "Aptos",
+              "color": "#087B83",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 109,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/836xozq1",
+      "id": "109",
+      "name": "deadline-intent-date",
+      "bbox": [
+        182,
+        717,
+        108,
+        17
+      ],
+      "geometry": "rect",
+      "text": "28 Aug 2026",
+      "textPreview": "28 Aug 2026",
+      "resolvedFontSize": 10.8,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 10.8,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "28 Aug 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "28 Aug 2026",
+          "resolvedTextStyle": {
+            "fontSize": 10.8,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "28 Aug 2026",
+              "fontSize": 10.8,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 110,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/690vi1oj",
+      "id": "110",
+      "name": "deadline-full-bg",
+      "bbox": [
+        308,
+        695,
+        137,
+        43
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 111,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7a9cr6po",
+      "id": "111",
+      "name": "deadline-full-label",
+      "bbox": [
+        318,
+        702,
+        117,
+        13
+      ],
+      "geometry": "rect",
+      "text": "FULL PAPER",
+      "textPreview": "FULL PAPER",
+      "resolvedFontSize": 7.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.2,
+        "typeface": "Aptos",
+        "color": "#087B83",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "FULL PAPER"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "FULL PAPER",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 7.2,
+            "typeface": "Aptos",
+            "color": "#087B83",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "FULL PAPER",
+              "fontSize": 7.2,
+              "typeface": "Aptos",
+              "color": "#087B83",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 112,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sbidkb69",
+      "id": "112",
+      "name": "deadline-full-date",
+      "bbox": [
+        318,
+        717,
+        117,
+        17
+      ],
+      "geometry": "rect",
+      "text": "4 Sep 2026",
+      "textPreview": "4 Sep 2026",
+      "resolvedFontSize": 10.8,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 10.8,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4 Sep 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4 Sep 2026",
+          "resolvedTextStyle": {
+            "fontSize": 10.8,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4 Sep 2026",
+              "fontSize": 10.8,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 113,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcrutw7u",
+      "id": "113",
+      "name": "deadline-notify-bg",
+      "bbox": [
+        40,
+        746,
+        124,
+        38
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 114,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5gbeho7",
+      "id": "114",
+      "name": "deadline-notify-label",
+      "bbox": [
+        50,
+        753,
+        104,
+        13
+      ],
+      "geometry": "rect",
+      "text": "NOTIFICATION",
+      "textPreview": "NOTIFICATION",
+      "resolvedFontSize": 7.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.2,
+        "typeface": "Aptos",
+        "color": "#087B83",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "NOTIFICATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "NOTIFICATION",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 7.2,
+            "typeface": "Aptos",
+            "color": "#087B83",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "NOTIFICATION",
+              "fontSize": 7.2,
+              "typeface": "Aptos",
+              "color": "#087B83",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 115,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j6pcnmps",
+      "id": "115",
+      "name": "deadline-notify-date",
+      "bbox": [
+        50,
+        768,
+        104,
+        12
+      ],
+      "geometry": "rect",
+      "text": "25 Sep 2026",
+      "textPreview": "25 Sep 2026",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 10.8,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.93,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "25 Sep 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "25 Sep 2026",
+          "resolvedTextStyle": {
+            "fontSize": 10.8,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "25 Sep 2026",
+              "fontSize": 10.8,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 116,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k7ydgr6d",
+      "id": "116",
+      "name": "deadline-camera-bg",
+      "bbox": [
+        172,
+        746,
+        128,
+        38
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 117,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58rupw7y",
+      "id": "117",
+      "name": "deadline-camera-label",
+      "bbox": [
+        182,
+        753,
+        108,
+        13
+      ],
+      "geometry": "rect",
+      "text": "CAMERA-READY",
+      "textPreview": "CAMERA-READY",
+      "resolvedFontSize": 7.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.2,
+        "typeface": "Aptos",
+        "color": "#087B83",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CAMERA-READY"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CAMERA-READY",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 7.2,
+            "typeface": "Aptos",
+            "color": "#087B83",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "CAMERA-READY",
+              "fontSize": 7.2,
+              "typeface": "Aptos",
+              "color": "#087B83",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 118,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/21kvqlob",
+      "id": "118",
+      "name": "deadline-camera-date",
+      "bbox": [
+        182,
+        768,
+        108,
+        12
+      ],
+      "geometry": "rect",
+      "text": "16 Oct 2026",
+      "textPreview": "16 Oct 2026",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 10.8,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.93,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "16 Oct 2026"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "16 Oct 2026",
+          "resolvedTextStyle": {
+            "fontSize": 10.8,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "16 Oct 2026",
+              "fontSize": 10.8,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 119,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/32tczqpw",
+      "id": "119",
+      "name": "deadline-aoe-bg",
+      "bbox": [
+        308,
+        746,
+        137,
+        38
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 120,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zmlsri5o",
+      "id": "120",
+      "name": "deadline-aoe-label",
+      "bbox": [
+        318,
+        753,
+        117,
+        13
+      ],
+      "geometry": "rect",
+      "text": "DEADLINE TIME",
+      "textPreview": "DEADLINE TIME",
+      "resolvedFontSize": 7.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.2,
+        "typeface": "Aptos",
+        "color": "#087B83",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "DEADLINE TIME"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "DEADLINE TIME",
+          "lineSpacingPercent": 90000,
+          "resolvedTextStyle": {
+            "fontSize": 7.2,
+            "typeface": "Aptos",
+            "color": "#087B83",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.9
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "DEADLINE TIME",
+              "fontSize": 7.2,
+              "typeface": "Aptos",
+              "color": "#087B83",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.9
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 121,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ylcrid43",
+      "id": "121",
+      "name": "deadline-aoe-date",
+      "bbox": [
+        318,
+        768,
+        117,
+        12
+      ],
+      "geometry": "rect",
+      "text": "23:59 AoE",
+      "textPreview": "23:59 AoE",
+      "resolvedFontSize": 10,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 10.8,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.93,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "23:59 AoE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "23:59 AoE",
+          "resolvedTextStyle": {
+            "fontSize": 10.8,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "23:59 AoE",
+              "fontSize": 10.8,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 122,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lo3at8ne",
+      "id": "122",
+      "name": "speakers-kicker",
+      "bbox": [
+        499,
+        563,
+        170,
+        18
+      ],
+      "geometry": "rect",
+      "text": "INVITED SPEAKERS",
+      "textPreview": "INVITED SPEAKERS",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "INVITED SPEAKERS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "INVITED SPEAKERS",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "INVITED SPEAKERS",
+              "fontSize": 10.51,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 123,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/1kvy18ra",
+      "id": "123",
+      "name": "speaker-yalin-photo",
+      "bbox": [
+        501,
+        593,
+        64,
+        64
+      ],
+      "geometry": "ellipse",
+      "alt": "Professor Yalin Zheng",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "ellipse"
+      },
+      "asset": {
+        "assetId": "d8341c77-7538-4218-90a4-79f7bc8f5230",
+        "contentType": "image/jpeg",
+        "byteLength": 62610
+      }
+    },
+    {
+      "order": 124,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na5svi5k",
+      "id": "124",
+      "name": "speaker-yalin-name",
+      "bbox": [
+        578,
+        594,
+        172,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Professor Yalin Zheng",
+      "textPreview": "Professor Yalin Zheng",
+      "resolvedFontSize": 13.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Professor Yalin Zheng"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Professor Yalin Zheng",
+          "resolvedTextStyle": {
+            "fontSize": 13.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Professor Yalin Zheng",
+              "fontSize": 13.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 125,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m9wrmd4z",
+      "id": "125",
+      "name": "speaker-yalin-role",
+      "bbox": [
+        578,
+        618,
+        168,
+        34
+      ],
+      "geometry": "rect",
+      "text": "University of Liverpool\nAI in healthcare & ophthalmic imaging",
+      "textPreview": "University of Liverpool | AI in healthcare & ophthalmic imaging",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Liverpool"
+          },
+          {
+            "index": 2,
+            "text": "AI in healthcare & ophthalmic imaging"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Liverpool",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Liverpool",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "AI in healthcare & ophthalmic imaging",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI in healthcare & ophthalmic imaging",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 126,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cnaxsnq",
+      "id": "126",
+      "name": "speaker-divider",
+      "bbox": [
+        500,
+        672,
+        249,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 127,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/p8vy5sr6",
+      "id": "127",
+      "name": "speaker-sharib-photo",
+      "bbox": [
+        501,
+        688,
+        64,
+        64
+      ],
+      "geometry": "ellipse",
+      "alt": "Dr Sharib Ali",
+      "contentType": "image/jpeg",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "ellipse"
+      },
+      "asset": {
+        "assetId": "fc5e5ae1-8ab2-4198-9f42-b3dfee50abbb",
+        "contentType": "image/jpeg",
+        "byteLength": 89757
+      }
+    },
+    {
+      "order": 128,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ve5sz25g",
+      "id": "128",
+      "name": "speaker-sharib-name",
+      "bbox": [
+        578,
+        690,
+        172,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Dr Sharib Ali",
+      "textPreview": "Dr Sharib Ali",
+      "resolvedFontSize": 13.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 13.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Sharib Ali"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Sharib Ali",
+          "resolvedTextStyle": {
+            "fontSize": 13.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Sharib Ali",
+              "fontSize": 13.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 129,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adwrqx4b",
+      "id": "129",
+      "name": "speaker-sharib-role",
+      "bbox": [
+        578,
+        714,
+        168,
+        34
+      ],
+      "geometry": "rect",
+      "text": "University of Leeds\nMedical & surgical image analysis",
+      "textPreview": "University of Leeds | Medical & surgical image analysis",
+      "resolvedFontSize": 8.71,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8.71,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Leeds"
+          },
+          {
+            "index": 2,
+            "text": "Medical & surgical image analysis"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Leeds",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Leeds",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "Medical & surgical image analysis",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 8.71,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Medical & surgical image analysis",
+              "fontSize": 8.71,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 130,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sjy9g729",
+      "id": "130",
+      "name": "speaker-note",
+      "bbox": [
+        501,
+        759,
+        248,
+        25
+      ],
+      "geometry": "rect",
+      "text": "Two translational perspectives. One shared question: what makes an image-derived biomarker clinically credible?",
+      "textPreview": "Two translational perspectives. One shared question: what makes an image-derived biomarker clinically credible?",
+      "resolvedFontSize": 7.91,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.91,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "center",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Two translational perspectives. One shared question: what makes"
+          },
+          {
+            "index": 2,
+            "text": "an image-derived biomarker clinically credible?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Two translational perspectives. One shared question: what makes an image-derived biomarker clinically credible?",
+          "lineSpacingPercent": 94000,
+          "resolvedTextStyle": {
+            "fontSize": 7.91,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "center",
+            "lineSpacing": 0.94
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Two translational perspectives. One shared question: what makes an image-derived biomarker clinically credible?",
+              "fontSize": 7.91,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "center",
+              "lineSpacing": 0.94
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 131,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tk7q9cju",
+      "id": "131",
+      "name": "organizers-surface",
+      "bbox": [
+        27,
+        811,
+        740,
+        126
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 132,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6hgrexk3",
+      "id": "132",
+      "name": "organizers-kicker",
+      "bbox": [
+        40,
+        823,
+        200,
+        18
+      ],
+      "geometry": "rect",
+      "text": "ORGANIZING COMMITTEE",
+      "textPreview": "ORGANIZING COMMITTEE",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ORGANIZING COMMITTEE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ORGANIZING COMMITTEE",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ORGANIZING COMMITTEE",
+              "fontSize": 10.51,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 133,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ip8721o",
+      "id": "133",
+      "name": "organizers-tagline",
+      "bbox": [
+        224,
+        823,
+        529,
+        15
+      ],
+      "geometry": "rect",
+      "text": "An interdisciplinary team spanning medical imaging, biomedical AI and clinical translation.",
+      "textPreview": "An interdisciplinary team spanning medical imaging, biomedical AI and clinical translation.",
+      "resolvedFontSize": 8.2,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8.2,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "An interdisciplinary team spanning medical imaging, biomedical AI and clinical translation."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "An interdisciplinary team spanning medical imaging, biomedical AI and clinical translation.",
+          "resolvedTextStyle": {
+            "fontSize": 8.2,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "An interdisciplinary team spanning medical imaging, biomedical AI and clinical translation.",
+              "fontSize": 8.2,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 134,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfe9cn2d",
+      "id": "134",
+      "name": "organizer-1-name",
+      "bbox": [
+        40,
+        849,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Yang Hu",
+      "textPreview": "Dr Yang Hu",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Yang Hu"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Yang Hu",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Yang Hu",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 135,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5g7q5sji",
+      "id": "135",
+      "name": "organizer-1-affiliation",
+      "bbox": [
+        40,
+        863,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "University of Leicester",
+      "textPreview": "University of Leicester",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Leicester"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Leicester",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Leicester",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 136,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idwradk7",
+      "id": "136",
+      "name": "organizer-2-name",
+      "bbox": [
+        278,
+        849,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Tianyang Zhang",
+      "textPreview": "Dr Tianyang Zhang",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Tianyang Zhang"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Tianyang Zhang",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Tianyang Zhang",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 137,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je583i1s",
+      "id": "137",
+      "name": "organizer-2-affiliation",
+      "bbox": [
+        278,
+        863,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "Oxford / Birmingham",
+      "textPreview": "Oxford / Birmingham",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Oxford / Birmingham"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Oxford / Birmingham",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Oxford / Birmingham",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 138,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbep8n21",
+      "id": "138",
+      "name": "organizer-3-name",
+      "bbox": [
+        516,
+        849,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr He Zhao",
+      "textPreview": "Dr He Zhao",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr He Zhao"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr He Zhao",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr He Zhao",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 139,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xcnq1s3m",
+      "id": "139",
+      "name": "organizer-3-affiliation",
+      "bbox": [
+        516,
+        863,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "University of Liverpool",
+      "textPreview": "University of Liverpool",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Liverpool"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Liverpool",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Liverpool",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 140,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lgj69oze",
+      "id": "140",
+      "name": "organizer-4-name",
+      "bbox": [
+        40,
+        879,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Jian Chen",
+      "textPreview": "Dr Jian Chen",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Jian Chen"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Jian Chen",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Jian Chen",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 141,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0va5gjit",
+      "id": "141",
+      "name": "organizer-4-affiliation",
+      "bbox": [
+        40,
+        893,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "University of Cambridge",
+      "textPreview": "University of Cambridge",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Cambridge"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Cambridge",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Cambridge",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 142,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zu1o7e18",
+      "id": "142",
+      "name": "organizer-5-name",
+      "bbox": [
+        278,
+        879,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Dan Dai",
+      "textPreview": "Dr Dan Dai",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Dan Dai"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Dan Dai",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Dan Dai",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 143,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ytsne90n",
+      "id": "143",
+      "name": "organizer-5-affiliation",
+      "bbox": [
+        278,
+        893,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "Aston University",
+      "textPreview": "Aston University",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Aston University"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Aston University",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Aston University",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 144,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9k36doza",
+      "id": "144",
+      "name": "organizer-6-name",
+      "bbox": [
+        516,
+        879,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Yakun Ju",
+      "textPreview": "Dr Yakun Ju",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Yakun Ju"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Yakun Ju",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Yakun Ju",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 145,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8ju5kji5",
+      "id": "145",
+      "name": "organizer-6-affiliation",
+      "bbox": [
+        516,
+        893,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "University of Leicester",
+      "textPreview": "University of Leicester",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Leicester"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Leicester",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Leicester",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 146,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nilobehk",
+      "id": "146",
+      "name": "organizer-7-name",
+      "bbox": [
+        40,
+        909,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Le Zhang",
+      "textPreview": "Dr Le Zhang",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Le Zhang"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Le Zhang",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Le Zhang",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 147,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhcnit0z",
+      "id": "147",
+      "name": "organizer-7-affiliation",
+      "bbox": [
+        40,
+        923,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "University of Birmingham",
+      "textPreview": "University of Birmingham",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Birmingham"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Birmingham",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Birmingham",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 148,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pozm14j6",
+      "id": "148",
+      "name": "organizer-8-name",
+      "bbox": [
+        278,
+        909,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Shangqi Gao",
+      "textPreview": "Dr Shangqi Gao",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Shangqi Gao"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Shangqi Gao",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Shangqi Gao",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 149,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onq58zil",
+      "id": "149",
+      "name": "organizer-8-affiliation",
+      "bbox": [
+        278,
+        923,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "University of Cambridge",
+      "textPreview": "University of Cambridge",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Cambridge"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Cambridge",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Cambridge",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 150,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uh4bm1c7",
+      "id": "150",
+      "name": "organizer-9-name",
+      "bbox": [
+        516,
+        909,
+        210,
+        14
+      ],
+      "geometry": "rect",
+      "text": "Dr Zheheng Jiang",
+      "textPreview": "Dr Zheheng Jiang",
+      "resolvedFontSize": 9.31,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 9.31,
+        "typeface": "Aptos",
+        "color": "#102329",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dr Zheheng Jiang"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dr Zheheng Jiang",
+          "resolvedTextStyle": {
+            "fontSize": 9.31,
+            "typeface": "Aptos",
+            "color": "#102329",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dr Zheheng Jiang",
+              "fontSize": 9.31,
+              "typeface": "Aptos",
+              "color": "#102329",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 151,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fidcv6ts",
+      "id": "151",
+      "name": "organizer-9-affiliation",
+      "bbox": [
+        516,
+        923,
+        210,
+        17
+      ],
+      "geometry": "rect",
+      "text": "University of Leicester",
+      "textPreview": "University of Leicester",
+      "resolvedFontSize": 7.4,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 7.4,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "University of Leicester"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "University of Leicester",
+          "lineSpacingPercent": 92000,
+          "resolvedTextStyle": {
+            "fontSize": 7.4,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "alignment": "left",
+            "lineSpacing": 0.92
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "University of Leicester",
+              "fontSize": 7.4,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "alignment": "left",
+              "lineSpacing": 0.92
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 152,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gjmtobud",
+      "id": "152",
+      "name": "logo-band",
+      "bbox": [
+        0,
+        950,
+        793.7,
+        113
+      ],
+      "geometry": "rect",
+      "fillColor": "#FFFFFF",
+      "lineWidth": 0
+    },
+    {
+      "order": 153,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hkfuxgby",
+      "id": "153",
+      "name": "logo-band-top",
+      "bbox": [
+        0,
+        950,
+        793.7,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#CFDAD7",
+      "lineWidth": 1
+    },
+    {
+      "order": 154,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2lobqlcj",
+      "id": "154",
+      "name": "institutions-heading",
+      "bbox": [
+        38,
+        966,
+        140,
+        18
+      ],
+      "geometry": "rect",
+      "text": "ORGANISING INSTITUTIONS",
+      "textPreview": "ORGANISING INSTITUTIONS",
+      "resolvedFontSize": 10.22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 0.97,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ORGANISING INSTITUTIONS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ORGANISING INSTITUTIONS",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ORGANISING INSTITUTIONS",
+              "fontSize": 10.51,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 155,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/6tkz2xk7",
+      "id": "155",
+      "name": "institution-logo-1",
+      "bbox": [
+        183,
+        958,
+        80,
+        34
+      ],
+      "geometry": "rect",
+      "alt": "University of Leicester",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "8e22051c-591f-459d-a707-867e365804cf",
+        "contentType": "image/jpeg",
+        "byteLength": 75224
+      }
+    },
+    {
+      "order": 156,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/twbyxcji",
+      "id": "156",
+      "name": "institution-logo-2",
+      "bbox": [
+        276,
+        958,
+        80,
+        34
+      ],
+      "geometry": "rect",
+      "alt": "University of Oxford",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "589fe3d9-e558-4fb7-892e-5d598897c675",
+        "contentType": "image/jpeg",
+        "byteLength": 132960
+      }
+    },
+    {
+      "order": 157,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/8v2h472x",
+      "id": "157",
+      "name": "institution-logo-3",
+      "bbox": [
+        369,
+        958,
+        80,
+        34
+      ],
+      "geometry": "rect",
+      "alt": "University of Liverpool",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "48b21a8a-bc99-4124-a9da-b7fbcc1179ac",
+        "contentType": "image/jpeg",
+        "byteLength": 57401
+      }
+    },
+    {
+      "order": 158,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/nypgjy18",
+      "id": "158",
+      "name": "institution-logo-4",
+      "bbox": [
+        462,
+        958,
+        80,
+        34
+      ],
+      "geometry": "rect",
+      "alt": "University of Cambridge",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "b14aed34-4a45-4456-bd10-7419a2b02ae6",
+        "contentType": "image/jpeg",
+        "byteLength": 121267
+      }
+    },
+    {
+      "order": 159,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/mxgfqdkn",
+      "id": "159",
+      "name": "institution-logo-5",
+      "bbox": [
+        555,
+        958,
+        80,
+        34
+      ],
+      "geometry": "rect",
+      "alt": "Aston University",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "8dc39100-76a6-4355-876b-f48df4a7fd6f",
+        "contentType": "image/jpeg",
+        "byteLength": 62352
+      }
+    },
+    {
+      "order": 160,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/qtojyl4b",
+      "id": "160",
+      "name": "institution-logo-6",
+      "bbox": [
+        648,
+        958,
+        80,
+        34
+      ],
+      "geometry": "rect",
+      "alt": "University of Birmingham",
+      "contentType": "image/jpeg",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "d6d5a343-22cc-4209-a191-08d9ade9c0bd",
+        "contentType": "image/jpeg",
+        "byteLength": 136018
+      }
+    },
+    {
+      "order": 161,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mtgrmdsr",
+      "id": "161",
+      "name": "partners-heading",
+      "bbox": [
+        38,
+        1014,
+        160,
+        18
+      ],
+      "geometry": "rect",
+      "text": "PARTNERS & SUPPORTERS",
+      "textPreview": "PARTNERS & SUPPORTERS",
+      "resolvedFontSize": 10.51,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 10.51,
+        "typeface": "Aptos",
+        "color": "#005D66",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PARTNERS & SUPPORTERS"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PARTNERS & SUPPORTERS",
+          "lineSpacingPercent": 95000,
+          "resolvedTextStyle": {
+            "fontSize": 10.51,
+            "typeface": "Aptos",
+            "color": "#005D66",
+            "bold": true,
+            "alignment": "left",
+            "lineSpacing": 0.95
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PARTNERS & SUPPORTERS",
+              "fontSize": 10.51,
+              "typeface": "Aptos",
+              "color": "#005D66",
+              "bold": true,
+              "alignment": "left",
+              "lineSpacing": 0.95
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 162,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/cv610bmh",
+      "id": "162",
+      "name": "partner-welcome-lancaster",
+      "bbox": [
+        203,
+        1002,
+        74,
+        48
+      ],
+      "geometry": "rect",
+      "alt": "Welcome to Lancaster graphic",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "de069f23-1e97-459a-8f3d-1220d3c0f1da",
+        "contentType": "image/png",
+        "byteLength": 69099
+      }
+    },
+    {
+      "order": 163,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/dgf2tg32",
+      "id": "163",
+      "name": "partner-lancaster-council",
+      "bbox": [
+        308,
+        1006,
+        92,
+        44
+      ],
+      "geometry": "rect",
+      "alt": "Lancaster City Council logo",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "d08f2c56-b3d5-48b7-a3e1-5a333dc0d5e7",
+        "contentType": "image/png",
+        "byteLength": 11635
+      }
+    },
+    {
+      "order": 164,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/2p4ju14f",
+      "id": "164",
+      "name": "partner-lancaster-crest",
+      "bbox": [
+        443,
+        1002,
+        47,
+        48
+      ],
+      "geometry": "rect",
+      "alt": "Lancaster crest",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "3ee72d0b-f8b9-4f18-8c15-7c7dd299bb05",
+        "contentType": "image/png",
+        "byteLength": 88394
+      }
+    },
+    {
+      "order": 165,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/3qxkn6l0",
+      "id": "165",
+      "name": "partner-icvl",
+      "bbox": [
+        538,
+        1009,
+        104,
+        32
+      ],
+      "geometry": "rect",
+      "alt": "ICVL logo",
+      "contentType": "image/png",
+      "imageFit": "contain",
+      "imageMask": {
+        "geometry": "rect"
+      },
+      "asset": {
+        "assetId": "f9a909ba-6eda-4e25-b699-93c7df60e993",
+        "contentType": "image/png",
+        "byteLength": 9032
+      }
+    },
+    {
+      "order": 166,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1s7qt8b6",
+      "id": "166",
+      "name": "partner-caption",
+      "bbox": [
+        648,
+        1009,
+        108,
+        36
+      ],
+      "geometry": "rect",
+      "text": "In association with BMVC 2026 and the Lancaster host community",
+      "textPreview": "In association with BMVC 2026 and the Lancaster host community",
+      "resolvedFontSize": 7.2,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 7.2,
+        "typeface": "Aptos",
+        "color": "#607176",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "In association with BMVC 2026"
+          },
+          {
+            "index": 2,
+            "text": "and the Lancaster host"
+          },
+          {
+            "index": 3,
+            "text": "community"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "In association with BMVC 2026 and the Lancaster host community",
+          "lineSpacingPercent": 94000,
+          "resolvedTextStyle": {
+            "fontSize": 7.2,
+            "typeface": "Aptos",
+            "color": "#607176",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 0.94
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "In association with BMVC 2026 and the Lancaster host community",
+              "fontSize": 7.2,
+              "typeface": "Aptos",
+              "color": "#607176",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 0.94
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 167,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0ry9k3a1",
+      "id": "167",
+      "name": "footer",
+      "bbox": [
+        0,
+        1063,
+        793.7,
+        59.52
+      ],
+      "geometry": "rect",
+      "fillColor": "#005D66",
+      "lineWidth": 0
+    },
+    {
+      "order": 168,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jmts329k",
+      "id": "168",
+      "name": "footer-event",
+      "bbox": [
+        38,
+        1078,
+        470,
+        17
+      ],
+      "geometry": "rect",
+      "text": "26 NOVEMBER 2026  ·  LANCASTER TOWN HALL  ·  LANCASTER, UK",
+      "textPreview": "26 NOVEMBER 2026  ·  LANCASTER TOWN HALL  ·  LANCASTER, UK",
+      "resolvedFontSize": 9.2,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 9.2,
+        "typeface": "Aptos",
+        "color": "#FFFFFF",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "26 NOVEMBER 2026  ·  LANCASTER TOWN HALL  ·  LANCASTER, UK"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "26 NOVEMBER 2026  ·  LANCASTER TOWN HALL  ·  LANCASTER, UK",
+          "resolvedTextStyle": {
+            "fontSize": 9.2,
+            "typeface": "Aptos",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "26 NOVEMBER 2026  ·  LANCASTER TOWN HALL  ·  LANCASTER, UK",
+              "fontSize": 9.2,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 169,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kruxsz",
+      "id": "169",
+      "name": "footer-contact",
+      "bbox": [
+        523,
+        1074,
+        232,
+        30
+      ],
+      "geometry": "rect",
+      "text": "bmvc-bdmedvis.github.io\nhy208@leicester.ac.uk",
+      "textPreview": "bmvc-bdmedvis.github.io | hy208@leicester.ac.uk",
+      "resolvedFontSize": 8.6,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 8.6,
+        "typeface": "Aptos",
+        "color": "#C8E0DD",
+        "bold": true,
+        "alignment": "right",
+        "verticalAlignment": "top",
+        "autoFit": "shrinkText",
+        "autoFitScale": 1,
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "bmvc-bdmedvis.github.io"
+          },
+          {
+            "index": 2,
+            "text": "hy208@leicester.ac.uk"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "bmvc-bdmedvis.github.io",
+          "lineSpacingPercent": 98000,
+          "resolvedTextStyle": {
+            "fontSize": 8.6,
+            "typeface": "Aptos",
+            "color": "#C8E0DD",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 0.98
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "bmvc-bdmedvis.github.io",
+              "fontSize": 8.6,
+              "typeface": "Aptos",
+              "color": "#C8E0DD",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 0.98
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "hy208@leicester.ac.uk",
+          "lineSpacingPercent": 98000,
+          "resolvedTextStyle": {
+            "fontSize": 8.6,
+            "typeface": "Aptos",
+            "color": "#C8E0DD",
+            "bold": true,
+            "alignment": "right",
+            "lineSpacing": 0.98
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "hy208@leicester.ac.uk",
+              "fontSize": 8.6,
+              "typeface": "Aptos",
+              "color": "#C8E0DD",
+              "bold": true,
+              "alignment": "right",
+              "lineSpacing": 0.98
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

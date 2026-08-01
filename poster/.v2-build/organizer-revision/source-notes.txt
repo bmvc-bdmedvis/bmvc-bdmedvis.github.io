@@ -1,0 +1,12 @@
+All organizer portraits are first-party project assets from /Users/huyang/Workspace/bmvc-bdmedvis.github.io/assets/organizers.
+Mapping used in the poster:
+1. Dr Yang Hu — yang-hu.jpg
+2. Dr Tianyang Zhang — tianyang-zhang.jpg
+3. Dr He Zhao — he-zhao.jpg
+4. Dr Jian Chen — jian-chen.jpg
+5. Dr Dan Dai — dan-dai.jpg
+6. Dr Yakun Ju — yakun-ju.jpg
+7. Dr Le Zhang — le-zhang.jpg
+8. Dr Shangqi Gao — shangqi-gao.jpg
+9. Dr Zheheng Jiang — zheheng-jiang.jpg
+

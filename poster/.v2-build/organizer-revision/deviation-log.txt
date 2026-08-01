@@ -1,0 +1,2 @@
+Slide 1: Nine authentic organizer portraits are added inside the existing organizer surface at the user's request. They use a consistent 28 px circular crop and do not alter the poster's visual system.
+Slide 1: The eighteen inherited organizer name and affiliation boxes move 36 px to the right and become 174 px wide; their wording, font family, font size, weight, colour and row order are preserved.
