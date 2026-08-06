@@ -170,11 +170,18 @@ button {
 }
 
 .site-nav a {
+  min-height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
   border-radius: 999px;
   padding: 9px 11px;
   color: var(--muted-strong);
   font-size: 14px;
   font-weight: 800;
+  line-height: 1;
+  white-space: nowrap;
   transition: color 150ms ease, background 150ms ease;
 }
 
@@ -185,11 +192,9 @@ button {
 }
 
 .site-nav a.nav-submit {
-  margin-left: 4px;
-  padding-inline: 15px;
+  padding: 9px 11px;
   color: #fff;
   background: var(--teal-dark);
-  box-shadow: 0 8px 20px rgba(7, 68, 76, 0.18);
 }
 
 .site-nav a.nav-submit:hover,
@@ -199,7 +204,9 @@ button {
 }
 
 .nav-submit span {
-  margin-left: 3px;
+  margin-left: 2px;
+  font-size: 13px;
+  line-height: 1;
 }
 
 .conference-logo {
@@ -984,8 +991,8 @@ h3 {
   }
 
   .site-nav a.nav-submit {
-    margin: 4px 0 0;
-    padding: 13px 14px;
+    margin-top: 4px;
+    padding: 12px;
     text-align: center;
   }
 
