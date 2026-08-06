@@ -184,6 +184,24 @@ button {
   background: rgba(11, 111, 121, 0.09);
 }
 
+.site-nav a.nav-submit {
+  margin-left: 4px;
+  padding-inline: 15px;
+  color: #fff;
+  background: var(--teal-dark);
+  box-shadow: 0 8px 20px rgba(7, 68, 76, 0.18);
+}
+
+.site-nav a.nav-submit:hover,
+.site-nav a.nav-submit.active {
+  color: #fff;
+  background: var(--teal);
+}
+
+.nav-submit span {
+  margin-left: 3px;
+}
+
 .conference-logo {
   display: inline-flex;
   align-items: center;
@@ -498,6 +516,22 @@ h3 {
 
 .news-card p {
   margin-top: 12px;
+}
+
+.news-action {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 18px;
+  color: var(--teal-dark);
+  font-weight: 900;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 4px;
+}
+
+.news-action:hover {
+  color: var(--teal);
 }
 
 .muted-card {
@@ -947,6 +981,12 @@ h3 {
   .site-nav a {
     padding: 12px;
     border-radius: 6px;
+  }
+
+  .site-nav a.nav-submit {
+    margin: 4px 0 0;
+    padding: 13px 14px;
+    text-align: center;
   }
 
   .conference-logo img {

@@ -2,7 +2,7 @@ const header = document.querySelector("[data-header]");
 const navToggle = document.querySelector("[data-nav-toggle]");
 const navLinks = document.querySelector("[data-nav-links]");
 const progressBar = document.querySelector("[data-progress]");
-const navAnchors = [...document.querySelectorAll(".site-nav a")];
+const navAnchors = [...document.querySelectorAll('.site-nav a[href^="#"]')];
 const sections = navAnchors
   .map((anchor) => document.querySelector(anchor.getAttribute("href")))
   .filter(Boolean);
